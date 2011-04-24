@@ -1,0 +1,95 @@
+---
+layout: default
+title: リンク集
+description: Duke Nukem 関連リンク集です。
+categories:
+- 'Duke Nukem 3D'
+- 'Duke Nukem Forever'
+---
+
+Duke Nukem Forever
+==================
+
+公式サイト
+----------
+
+* [Duke Nukem Forever Official Website](http://www.dukenukemforever.com/)
+* [2K Games - GAMES - DUKE NUKEM FOREVER](http://www.2kgames.com/games/duke-nukem-forever)
+* [デューク ニューケム フォーエバー 公式サイト](http://www.2kgames.jp/dnf/)
+
+開発元
+------
+
+* [3D Realms](http://www.3drealms.com/)
+* [Triptych Games](http://www.triptychgames.com/)
+* [Gearbox Software](http://www.gearboxsoftware.com/)
+* [Piranha Games](http://www.piranha-games.com/)
+
+販売元
+------
+
+* [GT Interactive (&raquo; ATARI)](http://www.atari.com/)
+* [Gathering of Developers (&raquo; Take-Two Interactive)](http://www.take2games.com/)
+* [2K Games](http://www.2kgames.com/)
+
+公式コミュニティ
+----------------
+
+### Facebook
+
+* [Duke Nukem](http://www.facebook.com/DukeGame)
+
+### Twitter
+
+* [3D Realms (3drealms) on Twitter](http://twitter.com/3drealms)
+* [Gearbox Software (GearboxSoftware) on Twitter](http://twitter.com/GearboxSoftware)
+* [2K Games (2KGames) on Twitter](http://twitter.com/2KGames)
+
+### YouTube
+
+* [YouTube - gearboxsoftware's Channel](http://www.youtube.com/user/gearboxsoftware)
+* [YouTube - 2kgamesinternational's Channel](http://www.youtube.com/user/2kgamesinternational)
+
+### フォーラム
+
+* [Duke Nukem Forever - Gearbox Software Forums](http://gbxforums.gearboxsoftware.com/forumdisplay.php?f=103)
+* [Duke Nukem Forever - 3D Realms Forums](http://forums.3drealms.com/vb/forumdisplay.php?f=13)
+
+
+海外ファンサイト
+----------------
+
+* [Duke Nukem Forever - Duke4.net: News](http://www.duke4.net/)
+
+Wikipedia
+---------
+
+* [Duke Nukem Forever - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Duke_Nukem_Forever)
+* [Duke Nukem - Wikipedia 日本語](http://ja.wikipedia.org/wiki/Duke_Nukem)
+
+Duke Nukem 3D
+=============
+
+公式サイト
+----------
+
+* [3D Realms Site: Duke Nukem 3D Atomic Edition](http://www.3drealms.com/duke3d/)
+* [Duke Nukem - 3D Realms Forums](http://forums.3drealms.com/vb/forumdisplay.php?f=15)
+
+Wikipedia
+---------
+
+* [Duke Nukem 3D - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Duke_Nukem_3D)
+
+ソースコード
+------------
+
+* [duke3dsource.zip](ftp://ftp.3drealms.com/source/)
+
+ポートエンジン
+--------------
+
+* [EDuke32 • Duke3D for Windows, Linux and OS X](http://www.eduke32.com/)
+* [Duke Nukem 3D: High Resolution Pack](http://hrp.duke4.net/)
+* [JonoF's Games and Stuff : JFDuke3D](http://www.jonof.id.au/jfduke3d)
+

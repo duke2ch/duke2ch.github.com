@@ -1,0 +1,38 @@
+---
+layout: default
+title: トレーラー
+description: Duke Nukem Forever 公開済みトレーラー一覧です。
+categories:
+- 'Duke Nukem Forever'
+---
+
+Duke Nukem Forever トレーラー
+=============================
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0syyhXFEETQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/C8QHSngg9vk" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/7mjH3dBPtfw" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/vvWMN_jfR5E" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/WALA791OZ_4" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/1I_j1AzOOSk" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/610eslySr9I" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/F47Lxw5r9Yg" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/8L4YDI7DsMs" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0Wb8uxojdYU" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/wVuuyRGB_BA" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/cWuteFLUPSY" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/TDlB2P1leRM" frameborder="0" allowfullscreen></iframe>
+
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/omOPjBoClw0" frameborder="0" allowfullscreen></iframe>

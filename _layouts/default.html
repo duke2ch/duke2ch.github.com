@@ -1,0 +1,351 @@
+---
+categories:
+- 'Duke Nukem 3D'
+- 'Duke Nukem Forever'
+- 'Wiki'
+---
+<!DOCTYPE html>
+<html lang="ja-JP" dir="ltr">
+  <head>
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <meta charset="UTF-8">
+    <meta name="rights-standard" content="{{ site.info.rights-standard }}">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="generator" content="Jekyll">
+    <meta name="keywords"
+     content="{% for keyword in page.categories %}{{ keyword }}, {% endfor %}">
+
+    <title>{{ page.title }} - {{ site.info.title }}</title>
+
+    <base href="http://duke2ch.github.com/">
+    <link rel="author" href="{{ site.info.author-contact }}"
+     title="{{ site.info.author }}">
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="alternate" type="application/atom+xml" href="./feed.xml"
+     title="Duke Nukem まとめサイト Atom フィード">
+    <link rel="stylesheet" type="text/css"
+     href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
+
+    <style type="text/css">
+      body {
+        line-height: 160%;
+        font-family: sans-serif;
+        font-size: 16px;
+      }
+      body a {
+        text-decoration: none;
+      }
+      body a:hover {
+        text-shadow: 0 0 7px rgb(255,99,71);
+      }
+      body blockquote {
+        padding-top: 6px;
+        padding-bottom: 6px;
+        padding-right: 6px;
+        padding-left: 44px;
+        margin-right: 44px;
+        margin-bottom: 1em;
+        background-color: rgb(220,220,220);
+        font-style: oblique;
+        border-radius: 5px;
+      }
+      body blockquote:before {
+        margin-top: 20px;
+        margin-left: -42px;
+        position: absolute;
+        content: "\201C";
+        color: rgb(255,255,255);
+        font-size: 72px;
+      }
+      body h1,h2,h3,h4,h5,h6 {
+        line-height: 200%;
+      }
+      body h1 {
+        font-size: 36px;
+      }
+      body h2 {
+        padding-left: 50px;
+        background-image: url("./images/bg_nuclear.png");
+        background-repeat: no-repeat;
+        background-position: -20px -20px;
+        font-size: 30px;
+      }
+      body h3 {
+        font-size: 24px;
+      }
+      body p {
+        margin-bottom: 1em;
+        text-align: justify;
+      }
+      body pre {
+        margin-bottom: 1em;
+        margin-left: 1em;
+        overflow: auto;
+      }
+      body strong {
+        font-weight: bold;
+      }
+      body ul {
+        margin-bottom: 1em;
+      }
+      body ul li {
+        margin-left: 1em;
+        list-style-type: disc;
+      }
+      body ul li ul li {
+        list-style-type: circle;
+      }
+      header {
+        padding: 0 150px 0 10px;
+        height: 150px;
+        color: rgb(200,200,200);
+        background-color: rgb(0,0,0);
+        background-image: url("./images/bg_babe.png");
+        background-repeat: no-repeat;
+        background-position: right -200px;
+        box-shadow: 0 0 5px rgb(0,0,0);
+        text-shadow: 0 0 5px rgb(0,0,0);
+      }
+      header h1, header h2 {
+        font-weight: bold;
+      }
+      header h2 {
+        background-image: none;
+        font-size: 21px;
+      }
+      article {
+        margin-left: 240px;
+        padding: 10px;
+      }
+      article a[href^="http"]:after {
+        content: url("./images/external.png");
+      }
+      article img {
+        margin-right: 10px;
+        margin-bottom: 1px;
+        float: left;
+      }
+      nav {
+        color: rgb(200,200,200);
+      }
+      nav ul#nav {
+        position: absolute;
+        top: 120px;
+        right: 150px;
+      }
+      nav ul#nav li {
+        margin-right: 2em;
+        margin-left: 0;
+        float: left;
+        list-style-type: none;
+      }
+      nav ul#nav li ul {
+        display: none;
+      }
+      nav ul#nav li:hover ul {
+        display: block;
+        position: absolute;
+      }
+      nav ul#nav li ul li {
+        margin-top: -2px;
+        padding: 5px;
+        border: 2px solid rgb(105,105,105);
+        clear: left;
+        width: 116px;
+        color: rgb(0,0,0);
+        background-color: rgb(255,255,255);
+        font-size: 14px;
+      }
+      aside {
+        padding: 10px;;
+        position: absolute;
+        top: 150px;
+        left: 0;
+        width: 220px;
+      }
+      footer {
+        margin-left: 240px;
+        padding-right: 10px;
+      }
+      footer p {
+        line-height: 130%;
+        font-family: serif;
+        font-style: italic;
+        font-size: 14px;
+        text-align: right;
+      }
+      #twitter {
+        display:none;
+        position: fixed;
+        left: 10px;
+        bottom: 10px;
+        width: 50px;
+        height: 50px;
+        background-image: url("./images/twitterbird.png");
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+      }
+      #twitter ul {
+        margin-top: -130px;
+        margin-left: 10px;
+        padding: 10px;
+        border: 2px solid rgb(105,105,105);
+        display: none;
+        width: 216px;
+        height: 136px;
+        line-height: 120%;
+        overflow: auto;
+        background-color: rgb(255,255,255);
+        font-size: 14px;
+        word-wrap: break-word;
+      }
+      #twitter ul li {
+        margin-bottom: 1em;
+      }
+      #twitter:hover ul {
+          display: block;
+      }
+    </style>
+
+    <script type="text/javascript" charset="UTF-8"
+     src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js">
+    </script> 
+    <script type="text/javascript">
+      $(function() {
+        // TODO: TOC 自動生成やる。
+
+        var tweets = new Array();
+        var url = 'http://api.twitter.com/1/statuses/user_timeline' +
+          '.json?callback=?';
+        $.getJSON(url, {'id': '2kgames','count': 10}, function(data, status) {
+          $.each(data, function(i, item) {
+            if (item.text.match(/(Duke)|(Nukem)|(DNF)/gi)) {
+              tweets.push(item);
+            }
+          });
+          $.getJSON(url, {'id': 'gearboxsoftware','count': 10}, function(data, status) {
+            $.each(data, function(i, item) {
+              if (item.text.match(/(Duke)|(Nukem)|(DNF)/gi)) {
+                tweets.push(item);
+              }
+            });
+            $.getJSON(url, {'id': '3drealms','count': 10}, function(data, status) {
+              $.each(data, function(i, item) {
+                if (item.text.match(/(Duke)|(Nukem)|(DNF)/gi)) {
+                  tweets.push(item);
+                }
+              });
+              for (var i = 0; i < tweets.length; i++) {
+                var postDate = new Date(tweets[i].created_at);
+                tweets[i].created_at =  postDate;
+              }
+              tweets.sort(function(a, b) {
+                return b.created_at - a.created_at
+              });
+              for (var i = 0; i < tweets.length; i++) {
+                var text = tweets[i].text
+                  .replace(/(s?https?:\/\/[-_.!~*'()a-za-z0-9;\/?:\@&=+\$,%#]+)/g, '<a href="$1" target="_blank">$1</a>')
+                  .replace(/#((?![a-z0-9]+;)[A-Za-z0-9_]+)/gi, '<a href="http://twitter.com/search/%23$1" target="_blank">&#035;$1</a>')
+                  .replace(/@([A-Za-z0-9_]{1,14}(?![a-z0-9_]))/g, '<a href="http://twitter.com/$1" target="_blank">@$1</a>')
+                $('#twitter ul').append(
+                  '<li><a href="http://twitter.com/' + 
+                  tweets[i].user.screen_name + '/status/' + 
+                  tweets[i].id_str + '"><strong>' +
+                  tweets[i].user.name + '</strong></a>: ' +
+                  text + '</li>');
+                $('#twitter').css('display', 'block');
+              }
+            });
+          });
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <h1>{{ site.info.title }}</h1>
+      <h2>{{ page.title }}</h2>
+    </header>
+
+    <article>
+      {{ content }}
+    </article>
+
+    <nav>
+      <ul id="nav">{% for category in page.categories %}
+        <li>&raquo;  {{ category }}
+          <ul>{% for post in site.posts %}
+          {% if post.categories contains category %}
+          {% if page.title == post.title %}
+            <li>{{ page.title }}</li>
+          {% else %}
+            <li>
+              &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endif %}{% endif %}
+          {% endfor %}</ul>
+        </li>
+      {% endfor %}</ul>
+    </nav>
+
+    <aside>
+      <h1>更新履歴</h1>
+
+      <ul>{% for post in site.posts %}
+        {% if prev_date == post.date %}
+            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+        {% else %}{% if forloop.first %}
+        <li>
+          {{ post.date | date: "%Y-%m-%d" }}
+          <ul>
+            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+        {% elsif forloop.last %}
+          </ul>
+        </li>
+        <li>
+          {{ post.date | date: "%Y-%m-%d" }}
+          <ul>
+            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+          </ul>
+        </li>
+        {% else %}
+          </ul>
+        </li>
+        <li>
+          {{ post.date | date: "%Y-%m-%d" }}
+          <ul>
+            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}{% endif %}
+        {% assign prev_date = post.date %}
+      {% endfor %}</ul>
+
+      <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-0217338580979292";
+        /* Sidebar style */
+        google_ad_slot = "6950562715";
+        google_ad_width = 200;
+        google_ad_height = 200;
+      //-->
+      </script>
+      <script type="text/javascript"
+       src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+      </script>
+    </aside>
+
+    <footer>
+      <p>Duke Nukem&reg; and all the stuff &copy; Gearbox Software&reg;, 2K Games&reg;, &amp; Take Two Interactive Software&reg;. Grabbag &copy; 1995 Lee Jackson. All the other contents are {{ site.info.rights }}.</p>
+      <div id="twitter">
+        <ul></ul>
+      </div>
+      <a href="http://github.com/duke2ch/duke2ch.github.com">
+        <img src="https://d3nwyuy0nl342s.cloudfront.net/img/4c7dc970b89fd04b81c8e221ba88ff99a06c6b61/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f77686974655f6666666666662e706e67"
+         alt="Fork me on GitHub"
+         style="position: absolute; top: 0; right: 0; border: 0;">
+      </a>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+# System-wide files & directories
+*.swp
+._*
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Jekyll specific files & directories
+_site

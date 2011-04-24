@@ -1,0 +1,42 @@
+---
+layout: default
+title: 2ch スレッド
+description: Duke Nukem 関連の 2ch スレッド一覧です。
+categories:
+- 'Duke Nukem 3D'
+- 'Duke Nukem Forever'
+---
+
+現行スレ
+========
+
+* [Duke Nukem Forever](http://yuzuru.2ch.net/test/read.cgi/gamef/1283598672/)
+
+過去スレ
+========
+
+* [【まだまだ】 Duke Nukem 3D 【現役!?】](http://game10.2ch.net/test/read.cgi/game/1028945772/)
+
+テンプレート
+============
+
+<pre>
+発売も決まったことだし立てた 
+　　
+  2011年発売予定 
+    
+  プラットフォーム：PC/PS3/Xbox360　 
+    
+■公式 
+  ttp://www.dukenukemforever.com/ 
+  3DRealms公式 
+  ttp://www.3drealms.com/ 
+
+■その他 
+  動画等 
+  ttp://www.gametrailers.com/game/duke-nukem-forever/360 
+  98年版トレーラー 
+  ttp://www.youtube.com/watch?v=omOPjBoClw0 
+  01年版トレーラー 
+  ttp://www.youtube.com/watch?v=iPX_y7wP_ko 
+</pre>

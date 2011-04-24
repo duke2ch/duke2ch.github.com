@@ -1,0 +1,11 @@
+auto:       true
+
+markdown:   rdiscount
+permalink:  /:title
+
+info:
+    title:              'Duke Nukem まとめサイト'
+    author:             'Japboy'
+    author-contact:     'http://twitter.com/japboy'
+    rights:             'Public domain'
+    rights-standard:    'pd'
