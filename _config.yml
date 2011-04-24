@@ -1,7 +1,7 @@
 auto:       true
 
 markdown:   rdiscount
-permalink:  /:title
+permalink:  /:title.html
 
 info:
     title:              'Duke Nukem まとめサイト'
