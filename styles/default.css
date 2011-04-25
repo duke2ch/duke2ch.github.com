@@ -1,17 +1,260 @@
 @charset "UTF-8";
 
-body {
+/**
+ * Duke Nukem まとめサイト
+ *
+ * @project   Duke Nukem まとめサイト
+ * @version   0.0.1
+ * @package   com.github.duke2ch
+ * @author    Japboy
+ * @copyright 2011 by Yu Inao
+ * @cssdoc    version 1.0-pre
+ * @license   Public domain
+ */
+
+/**
+ * Property order
+ *
+ * @see     http://hail2u.net/blog/webdesign/css2-property-order.html
+ * @see     http://www.w3.org/TR/2009/CR-CSS2-20090908/
+ *
+ * margin
+ * margin-top
+ * margin-right
+ * margin-bottom
+ * margin-left
+ * padding
+ * padding-top
+ * padding-right
+ * padding-bottom
+ * padding-left
+ * border
+ * border-top
+ * border-bottom
+ * border-right
+ * border-left
+ * border-width
+ * border-top-width
+ * border-right-width
+ * border-bottom-width
+ * border-left-width
+ * border-color
+ * border-top-color
+ * border-right-color
+ * border-bottom-color
+ * border-left-color
+ * border-style
+ * border-top-style
+ * border-right-style
+ * border-bottom-style
+ * border-left-style
+ * display
+ * position
+ * top
+ * right
+ * bottom
+ * left
+ * float
+ * clear
+ * z-index
+ * direction
+ * unicode-bidi
+ * width
+ * min-width
+ * max-width
+ * height
+ * min-height
+ * max-height
+ * line-height
+ * vertical-align
+ * overflow
+ * clip
+ * visibility
+ * content
+ * quotes
+ * counter-reset
+ * counter-increment
+ * list-style
+ * list-style-type
+ * list-style-image
+ * list-style-position
+ * page-break-before
+ * page-break-after
+ * page-break-inside
+ * orphans
+ * widows
+ * color
+ * background
+ * background-color
+ * background-image
+ * background-repeat
+ * background-attachment
+ * background-position
+ * font
+ * font-family
+ * font-style
+ * font-variant
+ * font-weight
+ * font-size
+ * text-indent
+ * text-align
+ * text-decoration
+ * letter-spacing
+ * word-spacing
+ * text-transform
+ * white-space
+ * caption-side
+ * table-layout
+ * border-collapse
+ * border-spacing
+ * cursor
+ * empty-cells
+ * speak-header
+ * outline
+ * outline-width
+ * outline-style
+ * outline-color
+ * volume
+ * speak
+ * pause-before
+ * pause-after
+ * pause
+ * cue-before
+ * cue-after
+ * cue
+ * play-during
+ * azimuth
+ * elevation
+ * speech-rate
+ * voice-family
+ * pitch
+ * pitch-range
+ * stress
+ * richness
+ * speak-punctuation
+ * speak-numeral
+ * speak-header
+ */
+
+/**
+ * Stylesheet initialisation
+ *
+ * @section	reset
+ */
+* {
     line-height: 160%;
     font-family: sans-serif;
     font-size: 16px;
-  }
-body a {
-    text-decoration: none;
 }
-body a:hover {
-    text-shadow: 0 0 7px rgb(255,99,71);
+
+/**
+ * The root element
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/semantics.html#the-root-element
+ */
+html {}
+
+/**
+ * Document metadata
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/semantics.html#document-metadata
+ */
+head,
+title,
+base,
+link,
+meta,
+style {}
+
+/**
+ * Scripting
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/semantics.html#scripting-1
+ */
+script,
+noscript {}
+
+/**
+ * Sections
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/semantics.html#sections
+ */
+body,
+section,
+nav,
+article,
+aside,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+hgroup,
+header,
+footer,
+address {}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    line-height: 200%;
 }
-body blockquote {
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    padding-left: 50px;
+    background-image: url("../images/bg_nuclear.png");
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+/**
+ * Grouping content
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/semantics.html#grouping-content
+ */
+p,
+hr,
+br,
+pre,
+dialog,
+blockquote,
+ol,
+ul,
+li,
+dl,
+dt,
+dd {}
+
+p {
+    margin-bottom: 1em;
+    text-align: justify;
+}
+
+pre {
+    margin-bottom: 1em;
+    margin-left: 1em;
+    overflow: auto;
+}
+
+blockquote {
     padding-top: 6px;
     padding-bottom: 6px;
     padding-right: 6px;
@@ -21,53 +264,163 @@ body blockquote {
     background-color: rgb(220,220,220);
     font-style: oblique;
     border-radius: 5px;
-  }
-body blockquote:before {
+}
+
+blockquote:before {
     margin-top: 20px;
     margin-left: -42px;
     position: absolute;
+    z-index: 0;
     content: "\201C";
     color: rgb(255,255,255);
     font-size: 72px;
 }
-body h1,h2,h3,h4,h5,h6 {
-    line-height: 200%;
-}
-body h1 {
-    font-size: 36px;
-}
-body h2 {
-    padding-left: 50px;
-    background-image: url("../images/bg_nuclear.png");
-    background-repeat: no-repeat;
-    background-position: -20px -20px;
-    font-size: 30px;
-}
-body h3 {
-    font-size: 24px;
-}
-body p {
-    margin-bottom: 1em;
-    text-align: justify;
-}
-body pre {
-    margin-bottom: 1em;
-    margin-left: 1em;
-    overflow: auto;
-}
-body strong {
-    font-weight: bold;
-}
-body ul {
+
+ul {
     margin-bottom: 1em;
 }
-body ul li {
+
+li {
     margin-left: 1em;
     list-style-type: disc;
 }
-body ul li ul li {
+
+li li {
     list-style-type: circle;
 }
+
+/**
+ * Text-level semantics
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/text-level-semantics.html#text-level-semantics
+ */
+a,
+em,
+strong,
+small,
+cite,
+q,
+dfn,
+abbr,
+code,
+var,
+samp,
+kbd,
+sub,
+sup,
+i,
+b,
+mark,
+progress,
+meter,
+time,
+ruby,
+rt,
+rp,
+bdo,
+span {}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0 0 7px rgb(255,99,71);
+}
+
+strong {
+    font-weight: bold;
+}
+
+/**
+ * Edits
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/text-level-semantics.html#edits
+ */
+ins,
+del {}
+
+/**
+ * Embedded content
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/text-level-semantics.html#embedded-content-1
+ */
+figure,
+img,
+iframe,
+embed,
+object,
+param,
+video,
+audio,
+source,
+canvas,
+map,
+area {}
+
+/**
+ * Tabular data
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/tabular-data.html#tabular-data
+ */
+table,
+caption,
+colgroup,
+col,
+tbody,
+thead,
+tfoot,
+tr,
+td,
+th {}
+
+/**
+ * Forms
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/forms.html#forms
+ */
+form,
+fieldset,
+label,
+input,
+button,
+select,
+datalist,
+optgroup,
+option,
+textarea,
+keygen,
+output {}
+
+/**
+ * Interactive elements
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/interactive-elements.html#interactive-elements
+ */
+details,
+command,
+menu{}
+
+/**
+ * Miscellaneous elements
+ *
+ * @section	structure
+ * @see     http://www.w3.org/TR/html5/interactive-elements.html#miscellaneous-elements
+ */
+legend,
+div {}
+
+/**
+ * Page design
+ *
+ * @section	design
+ */
 header {
     padding: 0 150px 0 10px;
     height: 150px;
@@ -83,6 +436,7 @@ header h1, header h2 {
     font-weight: bold;
 }
 header h2 {
+    line-height: 140%;
     background-image: none;
     font-size: 21px;
 }
@@ -105,6 +459,7 @@ nav ul#nav {
     position: absolute;
     top: 120px;
     right: 150px;
+    z-index: 1;
 }
 nav ul#nav li {
     margin-right: 2em;
@@ -118,8 +473,9 @@ nav ul#nav li ul {
 nav ul#nav li:hover ul {
     display: block;
     position: absolute;
+    z-index: 2;
 }
-nav ul#nav li ul li {
+nav ul#nav li:hover ul li {
     margin-top: -2px;
     padding: 5px;
     border: 2px solid rgb(105,105,105);
@@ -127,6 +483,8 @@ nav ul#nav li ul li {
     width: 116px;
     color: rgb(0,0,0);
     background-color: rgb(255,255,255);
+}
+nav ul#nav li:hover ul li a {
     font-size: 14px;
 }
 aside {
@@ -134,6 +492,7 @@ aside {
     position: absolute;
     top: 150px;
     left: 0;
+    z-index: 0;
     width: 220px;
 }
 footer {
@@ -141,17 +500,21 @@ footer {
     padding-right: 10px;
 }
 footer p {
-    line-height: 130%;
+    line-height: 120%;
     font-family: serif;
     font-style: italic;
     font-size: 14px;
     text-align: right;
+}
+footer p br {
+    line-height: 120%;
 }
 #twitter {
     display:none;
     position: fixed;
     left: 10px;
     bottom: 10px;
+    z-index: 1;
     width: 50px;
     height: 50px;
     background-image: url("../images/twitterbird.png");
@@ -159,22 +522,24 @@ footer p {
     background-position: 50% 50%;
 }
 #twitter ul {
+    display: none;
+}
+#twitter:hover ul {
     margin-top: -130px;
     margin-left: 10px;
     padding: 10px;
     border: 2px solid rgb(105,105,105);
-    display: none;
+    display: block;
     width: 216px;
     height: 136px;
-    line-height: 120%;
     overflow: auto;
     background-color: rgb(255,255,255);
-    font-size: 14px;
     word-wrap: break-word;
 }
-#twitter ul li {
+#twitter:hover ul li {
     margin-bottom: 1em;
 }
-#twitter:hover ul {
-    display: block;
+#twitter:hover ul * {
+    line-height: 120%;
+    font-size: 14px;
 }

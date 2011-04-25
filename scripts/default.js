@@ -40,7 +40,7 @@ $.getJSON(url, {'id': '2kgames','count': 10}, function(data, status) {
                 tweets[i].id_str + '"><strong>' +
                 tweets[i].user.name + '</strong></a>: ' +
                 text + '</li>');
-        $('#twitter').css('display', 'block');
+        $('#twitter').fadeIn(400).css('display', 'block');
             }
         });
     });
