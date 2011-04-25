@@ -3,7 +3,7 @@ layout: default
 title: Duke Nukem 語録
 description: Duke Nukem の発してきた名言の数々の記録です。
 categories:
-- '総合'
+- 'Duke Nukem Forever'
 ---
 
 Duke Nukem Forever
