@@ -276,52 +276,55 @@ categories:
     </article>
 
     <nav>
-      <ul id="nav">{% for category in page.categories %}
-        <li>&raquo;  {{ category }}
-          <ul>{% for post in site.posts %}
-          {% if post.categories contains category %}
-          {% if page.title == post.title %}
-            <li>&raquo; {{ page.title }}</li>
-          {% else %}
+      <ul id="nav">
+      {% for category in page.categories %}
+        <li>&raquo; {{ category }}
+          <ul>
+          {% for post in site.posts %}
+            {% if post.categories contains category %}
             <li>
+              {% if page.title == post.title %}
+              &raquo; {{ page.title }}
+              {% else %}
               <a href="{{ post.url }}">{{ post.title }}</a>
+              {% endif %}
             </li>
-          {% endif %}{% endif %}
-          {% endfor %}</ul>
+            {% endif %}
+          {% endfor %}
+          </ul>
         </li>
-      {% endfor %}</ul>
+      {% endfor %}
+      </ul>
     </nav>
 
     <aside>
       <h1>更新履歴</h1>
 
-      <ul>{% for post in site.posts %}
-        {% if prev_date == post.date %}
-            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
-        {% else %}{% if forloop.first %}
-        <li>
-          {{ post.date | date: "%Y-%m-%d" }}
+      {% assign prev_date = 0 %}
+      <ul>
+      {% for post in site.posts %}
+        {% if forloop.first %}
+        <li>{{ post.date | date: "%Y-%m-%d" }}
           <ul>
             <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
         {% elsif forloop.last %}
-          </ul>
-        </li>
-        <li>
-          {{ post.date | date: "%Y-%m-%d" }}
-          <ul>
             <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
           </ul>
         </li>
         {% else %}
+          {% if prev_date == post.date %}
+            <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+          {% else %}
           </ul>
         </li>
-        <li>
-          {{ post.date | date: "%Y-%m-%d" }}
+        <li>{{ post.date | date: "%Y-%m-%d" }}
           <ul>
             <li><a href=".{{ post.url }}">{{ post.title }}</a></li>
-        {% endif %}{% endif %}
+          {% endif %}
+        {% endif %}
         {% assign prev_date = post.date %}
-      {% endfor %}</ul>
+      {% endfor %}
+      </ul>
 
       <script type="text/javascript"><!--
         google_ad_client = "ca-pub-0217338580979292";
