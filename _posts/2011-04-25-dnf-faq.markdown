@@ -39,7 +39,7 @@ UPDATE (3/3): Amazon.com で再び全プラットフォームの事前予約が�
 
 UPDATE (2/15): Amazon.com で現在全プラットフォームにおいて売り切れとなっています。米国にお住まいの方で BoS 版の事前予約がお済みでない方は GameStop へお急ぎください!
 
-Q: 米国外でも購入可能でしょうか。
+Q: 米国外でも購入可能でしょうか。  
 A: はい、BoS 版はインターナショナル販売となっています。詳しい情報が共有されると思いますが、具体的なところは把握できていません。全ての購入可能地域は [DNF 事前予約ページ](http://www.dukenukemforever.com/preorder/)に一覧化されています。
 
 UPDATE (2/19): Amazon.ca で全プラットフォームが売り切れました。
@@ -75,7 +75,7 @@ NOTE: Mac 用の Borderlands GOTY 版にこの権利は含まれません。 PC,
 Q: Borderlands GOTY 版から自分のコードを入力したけど、登録されない。何で?  
 A: この問題の詳細に関して投稿があります。[こちらをご覧ください。](http://gbxforums.gearboxsoftware.com/showpost.php?p=2116809&postcount=861)
 
-Q: Duke Nukem Forever のエンジンは?
+Q: Duke Nukem Forever のエンジンは?  
 A: Duke Nukem Forever は Duke Nukem の名に相応しいエンジンの元に開発されています。一般的なレンダリングやアニメーションのシステムは独自仕様です。我々のデベロッパは、エンジンのプロモーションではなく、最高のゲームを作る事に注力しています。
 
 Q: Gearbox が Duke Nukem Forever をリリースするなら、 Triptych や Piranha という会社は何を扱うの?  
@@ -102,14 +102,13 @@ A: Gearbox has an internal philosophy when it comes to DLC of not just yanking c
 Q: Duke Nukem Forever に必要な動作環境は?  
 A: PlayStation 3 や Xbox360 は特にありません。 PC 版として、動作環境はまだ発表されていません。ご辛抱に感謝します。
 
-Q: 何の DRM を PC 版では使いますか。 
+Q: 何の DRM を PC 版では使いますか。  
 A: Steamworks を使います。 Steamworks と DNF の詳細は[このスレッドをご覧ください。](http://gbxforums.gearboxsoftware.com/showthread.php?t=117553)
 
 Q: ドイツ在住です。多くの他のゲーム同様、このゲームも規制されますか。  
 A: 3 月 2 日にドイツのレーティング当局は 18 rating とする発表がありました。つまり一切の編集やカットの類がないという事です! 詳しくは[こちら。](http://gbxforums.gearboxsoftware.com/showthread.php?t=118165)
 
 Q: オーストラリア在住です。同様に規制はありますか。  
-I live in Australia, will the game be censored for me like a lot of games are?
 A: オーストラリアのレーティング当局は MA 15+ のレーティングで編集及びカットはありません。詳しくは[こちら。](http://gbxforums.gearboxsoftware.com/showthread.php?t=117556)
 
 Q: 北米とイギリスはどうでしょう。規制はありますか。  
