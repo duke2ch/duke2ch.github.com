@@ -525,13 +525,13 @@ footer p br {
     display: none;
 }
 #twitter:hover ul {
-    margin-top: -130px;
+    margin-top: -160px;
     margin-left: 10px;
     padding: 10px;
     border: 2px solid rgb(105,105,105);
     display: block;
     width: 216px;
-    height: 136px;
+    height: 178px;
     overflow: auto;
     background-color: rgb(255,255,255);
     word-wrap: break-word;
