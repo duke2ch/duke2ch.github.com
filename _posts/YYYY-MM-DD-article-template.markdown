@@ -6,10 +6,11 @@ published: false                    # optional
 date: YYYY-MM-DD                    # optional
 title: 記事のタイトル
 description: 記事の概要を 1 行で書きます。
-category: 'Name of Category' # 'Duke Nukem 3D' 'Duke Nukem Forever' 'Wiki'
-tags:
-- 'Tag'
-- 'Another tag'
+categories:
+- '総合'
+- 'Duke Nukem 3D'
+- 'Duke Nukem Forever'
+- 'Wiki'
 ---
 
 見出し 1

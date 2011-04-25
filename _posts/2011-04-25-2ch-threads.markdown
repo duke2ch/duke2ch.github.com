@@ -3,8 +3,7 @@ layout: default
 title: 2ch スレッド
 description: Duke Nukem 関連の 2ch スレッド一覧です。
 categories:
-- 'Duke Nukem 3D'
-- 'Duke Nukem Forever'
+- '総合'
 ---
 
 現行スレ

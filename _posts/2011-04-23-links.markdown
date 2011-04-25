@@ -3,8 +3,7 @@ layout: default
 title: リンク集
 description: Duke Nukem 関連リンク集です。
 categories:
-- 'Duke Nukem 3D'
-- 'Duke Nukem Forever'
+- '総合'
 ---
 
 Duke Nukem Forever
