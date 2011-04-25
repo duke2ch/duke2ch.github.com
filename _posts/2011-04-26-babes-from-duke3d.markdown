@@ -1,0 +1,33 @@
+---
+layout: default
+title: 娘たちの記録
+description: Duke Nukem 3D 時代に花を添えた娘たち。
+categories:
+- 'Duke Nukem 3D'
+---
+
+1996 年当時の娘たち
+===================
+
+思い出の中の娘たち
+------------------
+
+![](./images/duke3d-babe-01.png)
+![](./images/duke3d-babe-02.png)
+![](./images/duke3d-babe-03.png)
+![](./images/duke3d-babe-04.png)
+
+High Resolution Pack で蘇った娘たち
+-----------------------------------
+
+![](./images/duke3d-babe-05.png)
+![](./images/duke3d-babe-06.png)
+![](./images/duke3d-babe-07.png)
+![](./images/duke3d-babe-08.png)
+![](./images/duke3d-babe-09.png)
+![](./images/duke3d-babe-10.png)
+
+HRP の弊害
+----------
+
+残念なのが、何より娘たちだ。当時の低解像度スプライトでは娘たちの顔をくっきり描く事が出来なかった分、脳内補正で素晴らしく美形に補正して悶々とした気分に浸ったものだ。それがどうだ。残念な結果に終わっている娘多数。しかし胸の出来は思いのほか素晴らしい...

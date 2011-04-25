@@ -205,6 +205,7 @@ h3,
 h4,
 h5,
 h6 {
+    clear: both;
     line-height: 200%;
 }
 
@@ -454,7 +455,7 @@ article a[href^="http"]:after {
 }
 article img {
     margin-right: 10px;
-    margin-bottom: 1px;
+    margin-bottom: 10px;
     float: left;
 }
 nav {
@@ -503,6 +504,7 @@ aside {
 footer {
     margin-left: 240px;
     padding-right: 10px;
+    clear: both;
 }
 footer p {
     line-height: 120%;
