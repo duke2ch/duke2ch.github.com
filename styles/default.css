@@ -1,0 +1,180 @@
+@charset "UTF-8";
+
+body {
+    line-height: 160%;
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+body a {
+    text-decoration: none;
+}
+body a:hover {
+    text-shadow: 0 0 7px rgb(255,99,71);
+}
+body blockquote {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-left: 44px;
+    margin-right: 44px;
+    margin-bottom: 1em;
+    background-color: rgb(220,220,220);
+    font-style: oblique;
+    border-radius: 5px;
+  }
+body blockquote:before {
+    margin-top: 20px;
+    margin-left: -42px;
+    position: absolute;
+    content: "\201C";
+    color: rgb(255,255,255);
+    font-size: 72px;
+}
+body h1,h2,h3,h4,h5,h6 {
+    line-height: 200%;
+}
+body h1 {
+    font-size: 36px;
+}
+body h2 {
+    padding-left: 50px;
+    background-image: url("../images/bg_nuclear.png");
+    background-repeat: no-repeat;
+    background-position: -20px -20px;
+    font-size: 30px;
+}
+body h3 {
+    font-size: 24px;
+}
+body p {
+    margin-bottom: 1em;
+    text-align: justify;
+}
+body pre {
+    margin-bottom: 1em;
+    margin-left: 1em;
+    overflow: auto;
+}
+body strong {
+    font-weight: bold;
+}
+body ul {
+    margin-bottom: 1em;
+}
+body ul li {
+    margin-left: 1em;
+    list-style-type: disc;
+}
+body ul li ul li {
+    list-style-type: circle;
+}
+header {
+    padding: 0 150px 0 10px;
+    height: 150px;
+    color: rgb(200,200,200);
+    background-color: rgb(0,0,0);
+    background-image: url("../images/bg_babe.png");
+    background-repeat: no-repeat;
+    background-position: right -200px;
+    box-shadow: 0 0 5px rgb(0,0,0);
+    text-shadow: 0 0 5px rgb(0,0,0);
+}
+header h1, header h2 {
+    font-weight: bold;
+}
+header h2 {
+    background-image: none;
+    font-size: 21px;
+}
+article {
+    margin-left: 240px;
+    padding: 10px;
+}
+article a[href^="http"]:after {
+    content: url("../images/external.png");
+}
+article img {
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float: left;
+}
+nav {
+    color: rgb(200,200,200);
+}
+nav ul#nav {
+    position: absolute;
+    top: 120px;
+    right: 150px;
+}
+nav ul#nav li {
+    margin-right: 2em;
+    margin-left: 0;
+    float: left;
+    list-style-type: none;
+}
+nav ul#nav li ul {
+    display: none;
+}
+nav ul#nav li:hover ul {
+    display: block;
+    position: absolute;
+}
+nav ul#nav li ul li {
+    margin-top: -2px;
+    padding: 5px;
+    border: 2px solid rgb(105,105,105);
+    clear: left;
+    width: 116px;
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    font-size: 14px;
+}
+aside {
+    padding: 10px;;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 220px;
+}
+footer {
+    margin-left: 240px;
+    padding-right: 10px;
+}
+footer p {
+    line-height: 130%;
+    font-family: serif;
+    font-style: italic;
+    font-size: 14px;
+    text-align: right;
+}
+#twitter {
+    display:none;
+    position: fixed;
+    left: 10px;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    background-image: url("../images/twitterbird.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+#twitter ul {
+    margin-top: -130px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 2px solid rgb(105,105,105);
+    display: none;
+    width: 216px;
+    height: 136px;
+    line-height: 120%;
+    overflow: auto;
+    background-color: rgb(255,255,255);
+    font-size: 14px;
+    word-wrap: break-word;
+}
+#twitter ul li {
+    margin-bottom: 1em;
+}
+#twitter:hover ul {
+    display: block;
+}
