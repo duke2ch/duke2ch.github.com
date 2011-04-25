@@ -1,5 +1,6 @@
 auto:       true
 
+lsi:        true
 markdown:   rdiscount
 permalink:  /:title.html
 
