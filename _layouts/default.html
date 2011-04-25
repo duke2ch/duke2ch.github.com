@@ -39,7 +39,13 @@ categories:
 
   <body>
     <header>
-      <h1>{{ site.info.title }}</h1>
+      <h1>
+      {% if page.url == '/index.html' %}
+        {{ site.info.title }}
+      {% else %}
+        <a href="./">{{ site.info.title }}</a>
+      {% endif %}
+      </h1>
       <h2>{{ page.title }}</h2>
     </header>
 
