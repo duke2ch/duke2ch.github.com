@@ -1,6 +1,7 @@
 auto:       true
 
 lsi:        true
+exclude:    README.markdown
 markdown:   rdiscount
 permalink:  /:title.html
 
