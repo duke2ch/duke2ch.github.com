@@ -425,20 +425,26 @@ div {}
 header {
     padding: 0 150px 0 10px;
     height: 150px;
-    color: rgb(200,200,200);
     background-color: rgb(0,0,0);
+    box-shadow: 0 0 5px rgb(0,0,0);
+}
+header#babe-0 {
     background-image: url("../images/bg_babe.png");
     background-repeat: no-repeat;
-    background-position: right -200px;
-    box-shadow: 0 0 5px rgb(0,0,0);
-    text-shadow: 0 0 5px rgb(0,0,0);
+    background-position: 100% 100%;
 }
-header h1, header h2 {
-    font-weight: bold;
+header#babe-1 {
+    background-image: url("../images/bg_holsumtwin.png");
+    background-repeat: no-repeat;
+    background-position: 90% 60%;
+}
+header * {
+    color: rgb(255,255,255);
+    font-weight: bolder;
+    text-shadow: 0 0 5px rgb(0,0,0);
 }
 header h1 a {
     line-height: 200%;
-    color: rgb(200,200,200);
     font-size: 36px;
 }
 header h2 {
@@ -459,13 +465,14 @@ article img {
     float: left;
 }
 nav {
-    color: rgb(200,200,200);
+    color: rgb(255,255,255);
 }
 nav ul#nav {
     position: absolute;
     top: 120px;
     right: 150px;
     z-index: 1;
+    background-color: rgba(0,0,0,0.5);
 }
 nav ul#nav li {
     margin-right: 2em;
@@ -489,6 +496,7 @@ nav ul#nav li:hover ul li {
     width: 116px;
     color: rgb(0,0,0);
     background-color: rgb(255,255,255);
+    font-size: 14px;
 }
 nav ul#nav li:hover ul li a {
     font-size: 14px;
