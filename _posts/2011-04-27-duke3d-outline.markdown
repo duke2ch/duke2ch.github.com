@@ -58,7 +58,7 @@ PC 向け拡張パック
 オープンソースプロジェクト
 --------------------------
 
-1997 年の Doom ソースコード公開を受け、ゲーマー達の間で同類のゲームである Duke Nukem 3D のソースコード公開への期待が高まった。しかし 3D Realms がソースコードを公開したのは 2003 年 4 月 1 日の事であった。エイプリルフールの公開であったので、混乱も大きく、また待たされた分反響も大きかった。GPL ライセンスの元オープンソース化され、クロスプラットフォーム化された今、MS-DOS 向けのゲームであった Duke Nukem 3D は、特別な環境がなくても、Windows、Linux、Mac OS X 等で遊ぶ事ができるようになっている。またオープンソースプロジェクトの開発は今も活発に続いている。
+1997 年の Doom ソースコード公開を受け、ゲーマー達の間で同類のゲームである Duke Nukem 3D のソースコード公開への期待が高まった。しかし 3D Realms がソースコードを公開したのは 2003 年 4 月 1 日の事であった。エイプリルフールの公開であったので、混乱も大きく、また待たされた分反響も大きかった。現在、ソースコードは [3D Realms の FTP サーバからダウンロードできる。](ftp://ftp.3drealms.com/source/) GPL ライセンスの元オープンソース化され、クロスプラットフォーム化された今、MS-DOS 向けのゲームであった Duke Nukem 3D は、特別な環境がなくても、Windows、Linux、Mac OS X 等で遊ぶ事ができるようになっている。またオープンソースプロジェクトの開発は今も活発に続いている。
 
 * **LameDuke**: 開発初期のベータ版 Duke Nukem 3D を 3D Realms が公開したもの。一切のサポートはないが [3D Realms の FTP サーバで公開されている。](ftp://ftp.3drealms.com/misc/lameduke.zip) 製品版とは違う 4 つのエピソードを含み、製品版には含まれない武器が登場するようだ。
 * **EDuke**: Final Doom の TNT エピソード等を手がけた TeamTNT による Duke Nukem 3D のソースコードを使用したゲーム WWII GI が 1999 年にリリースされた後、そのプログラマーであった Matthew Saettler 氏は Duke Nukem 3D のプレイアビリティ向上の為のプログラム改変を申し出た。この結果として EDuke は Atomic Edition のパッチとして 2000 年 6 月 28 日にリリースされた。しかしその後の開発はキャンセルされた。
@@ -68,6 +68,6 @@ PC 向け拡張パック
 関連作品
 --------
 
-* **Blood**: 3D Realms と [Monolith Productions](http://www.lith.com/) 開発の FPS ゲーム。Duke Nukem 3D で使用された Build エンジンを Ken Silverman 氏が改良したものの上で開発された。開発自体は Duke Nukem 3D と並行して行われていたが、Shadow Warrior 開発への集中のため、Monolith Productions に全権利が売り払われた。発売は 1997 年 1 月 22 日。カルトチックで血みどろな世界観は Monolith の原点と言える。Duke3D と同じくファンと多い作品。
+* **Blood**: 3D Realms と [Monolith Productions](http://www.lith.com/) 開発の FPS ゲーム。Duke Nukem 3D で使用された Build エンジンを Ken Silverman 氏が改良したものの上で開発された。開発自体は Duke Nukem 3D と並行して行われていたが、Shadow Warrior 開発への集中のため、Monolith Productions に全権利が売り払われた。発売は 1997 年 1 月 22 日。カルトチックで血みどろな世界観は Monolith の原点と言える。Duke3D と同じくファンガ多い作品。
 * **Shadow Warrior**: 3D Realms が Duke Nukem 3D の翌年 1997 年 5 月 13 日に発売した FPS ゲーム。同じく Build エンジン上で開発されたゲームで、開発自体は Duke Nukem 3D と並行して行われていた。西の Duke Nukem 東の Shadow Warrior と題されるように、Shadow Warrrior の舞台は極東、日本が舞台である。そのおかしな日本解釈は話題となった。
 * **[Duke Nukem 3D: Reloaded](http://www.dukenukemreloaded.com/)**: 2010 年 10 月 13 日に発表された &ldquo;Duke Nukem Next-Gen&rdquo; として知られていたゲームで、現在開発中の、公式なファンプロジェクトの FPS ゲームである。制作者 Frederik Schreiber 氏は Duke Nukem の &ldquo;personal non-commercial license&rdquo; を[正式に授与されている。](http://gbxforums.gearboxsoftware.com/showthread.php?t=112564) Unreal Engine 3 上で開発されているようだ。
