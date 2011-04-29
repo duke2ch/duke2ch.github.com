@@ -38,7 +38,7 @@ categories:
   </head>
 
   <body>
-    <header>
+    <header id="top">
       <h1>
       {% if page.url == '/index.html' %}
         {{ site.info.title }}
@@ -50,6 +50,8 @@ categories:
     </header>
 
     <article>
+      <section id="toc"><p>▽ 目次</p></section>
+
       {{ content }}
 
       <section id="disqus">
@@ -73,17 +75,15 @@ categories:
     <nav>
       <ul id="nav">
       {% for category in page.categories %}
-        <li>&raquo; {{ category }}
+        <li>{{ category }}
           <ul>
           {% for post in site.posts %}
             {% if post.categories contains category %}
-            <li>
-              {% if page.title == post.title %}
-              &raquo; {{ page.title }}
-              {% else %}
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              {% endif %}
-            </li>
+            {% if page.title == post.title %}
+            <li class="active">{{ page.title }}</li>
+            {% else %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
             {% endif %}
           {% endfor %}
           </ul>
