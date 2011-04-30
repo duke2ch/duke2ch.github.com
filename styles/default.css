@@ -253,6 +253,7 @@ pre {
     margin-bottom: 1em;
     margin-left: 1em;
     overflow: auto;
+    font-family: monospace;
 }
 
 blockquote {
@@ -332,7 +333,11 @@ a:hover {
 }
 
 strong {
-    font-weight: bold;
+    font-weight: bolder;
+}
+
+code {
+    font-family: monospace;
 }
 
 /**
