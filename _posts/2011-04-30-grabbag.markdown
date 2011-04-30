@@ -1,0 +1,67 @@
+---
+layout: default
+title: Grabbag
+description: Duke Nukem シリーズのメインテーマ Grabbag についてのページです。
+categories:
+- '総合'
+---
+
+Grabbag とは...
+===============
+
+<iframe width="425" height="349" src="http://www.youtube.com/embed/iXxcq704r-g" frameborder="0" allowfullscreen></iframe>
+
+Grabbag (Duke Nukem Theme) は言わずも知れた Duke Nukem メインテーマです。Duke Nukem 3D でメインテーマとして登場し、すっかり定着しました。作曲は Lee Jackson 氏、1963 年米国テキサス州出身で、3D Realms の音楽及びサウンドディレクターです。現在では公式非公式問わず様々なリミックスが行われています。
+
+公式ミックス
+------------
+
+* [Original Grabbag (Duke Nukem Theme)](http://www.duke4.net/download.php?view.24) by Lee Jackson
+* [Duke Nukem Forever 2011](http://www.duke4.net/download.php?view.78)
+* [Duke Nukem Forever 2005](http://www.duke4.net/download.php?view.13)
+* [Duke Nukem Forever 2001](http://www.duke4.net/download.php?view.11)
+* [Duke Nukem Forever 1998](http://www.duke4.net/download.php?view.8)
+
+ファン・リミックス
+------------------
+
+### Duke Nukem Theme (cover)
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/MzptQ4ZuTTI" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Ed Dekker**
+* Web サイト: [eddekker.nl](http://eddekker.nl/)
+* ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.76)
+
+### Duke Nukem (GL Techno Remix)
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/n0hPEeGXnxw" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Thermometer10 (aka Gerlof)**
+* ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.75)
+
+
+### Duke Nukem Grabbag metal cover
+
+<iframe width="480" height="390" src="http://www.youtube.com/embed/_i54M0eY4v4" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **EdKr**
+* ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.72)
+
+### Epinikion Grabbag
+
+<iframe width="480" height="390" src="http://www.youtube.com/embed/9-uBpv_HIqs" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Epinikion**
+* ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.50)
+
+### Megadeth Grabbag
+
+<iframe width="480" height="390" src="http://www.youtube.com/embed/HW_9SGrc4Oo" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Megadeth**
+* ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.20)
+
+### その他
+
+* [Grabbag (Duke Nukem) 2011](http://www.newgrounds.com/audio/listen/400371) by Jonny Death
