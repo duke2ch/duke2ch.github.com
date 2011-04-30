@@ -68,7 +68,7 @@ $(function() {
     );
 
     $('header').attr('id', 'babe-' + Math.floor(Math.random() * 2));
-
+    $("article").prepend('<section id="toc"><p>▽ 目次</p></section>');
     $("#toc").bind("click", function () {
         /**
          * TOC generator
@@ -124,4 +124,4 @@ $(function() {
         $("#toc").unbind("click");
         $("#toc").append(toc_html);
     });
-});
+})();
