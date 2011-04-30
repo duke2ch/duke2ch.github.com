@@ -64,6 +64,7 @@ PC 向け拡張パック
 * **EDuke**: Final Doom の TNT エピソード等を手がけた TeamTNT による Duke Nukem 3D のソースコードを使用したゲーム WWII GI が 1999 年にリリースされた後、そのプログラマーであった Matthew Saettler 氏は Duke Nukem 3D のプレイアビリティ向上の為のプログラム改変を申し出た。この結果として EDuke は Atomic Edition のパッチとして 2000 年 6 月 28 日にリリースされた。しかしその後の開発はキャンセルされた。
 * **JFDuke3D**: Jonathon Fowler 氏の JFDuke3D はソースコード公開以前から Duke Nukem 3D を近代的なプラットフォームで動かそうとするプロジェクトで、後に Build エンジンのプログラマー Ken Silverman 氏の協力で OpenGL 対応による 3D ハードウェアアクセレーションや 3D モデル及び高解像度テクスチャへの対応が実現された。
 * **[EDuke32](http://www.eduke32.com/)**: デファクトスタンダードとなったポートエンジン。JFDuke3D で実現した数々の拡張性を継承しつつ、Shader model 3.0 への対応やネイティブ 64-bit Linux に対応するなど、非常に優れたエンジンとなっている。
+* **[High Resolution Pack](http://hrp.duke4.net/)**: HRP の略称で親しまれる Duke Nukem 3D を現在ゲーム品質に引き上げるプロジェクト。前述の EDuke32 向けにオリジナルの 4 倍の解像度にあたる 32-bit 高解像度テクスチャと 3D モデル、リサンプリングされたサウンドトラック等が提供される。
 
 関連作品
 --------
