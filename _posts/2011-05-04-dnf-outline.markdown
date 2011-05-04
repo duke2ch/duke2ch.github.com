@@ -63,6 +63,29 @@ Gearbox Software のRandy Pitchford 氏と Brian Martel 氏が 3D Realms の開�
 * [4Gamer.net ― 「Duke Nukem Forever」を実際にプレイ。ラスベガスで行われたイベントで堂々の帰還を果たした，ゲーム史上最低かつ最強の男，デューク・ニューケムの近況をレポート（Duke Nukem Forever）](http://www.4gamer.net/games/002/G000281/20110209087/)
 * [4Gamer.net ― Access Accepted第218回：さよならデューク ～ 長いような短いような「Duke Nukem Forever」の歴史](http://www.4gamer.net/games/036/G003691/20090514037/)
 
+動作環境
+--------
+
+### 必須環境
+
+* OS: Windows XP / Vista / 7
+* CPU: Intel Core 2 Duo 2.0 GHz / AMD Athlon 64 X2 2.0 GHz
+* メモリ: 1 GB
+* ハードディスク: 10 GB の空き容量
+* ビデオメモリ: 256 MB
+* ビデオカード: nVIDIA GeForce 7600 / ATI Radeon HD 2600
+* サウンドカード: DirectX 互換のもの
+
+### 推奨環境
+
+* OS: Windows XP / Vista / 7
+* CPU: Intel Core 2 Duo 2.**4** GHz / AMD Athlon 64 X2 2.**6** GHz
+* メモリ: **2** GB
+* ハードディスク: 10 GB の空き容量
+* ビデオメモリ: **512** MB
+* ビデオカード: nVIDIA GeForce **8800 GTS** / ATI Radeon HD **3850**
+* サウンドカード: DirectX 互換のもの
+
 ゲームプレイ
 ------------
 
