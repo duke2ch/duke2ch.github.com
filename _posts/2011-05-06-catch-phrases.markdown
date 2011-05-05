@@ -71,7 +71,8 @@ Duke Nukem Forever: Official HD Debut Trailer
 
 デューク: ああ、だが 12 歳になったらな、間違いないぜ。
 
-一覧
-====
+その他参照先
+============
 
 * [Duke Nukem - Wikiquote](http://en.wikiquote.org/wiki/Duke_Nukem)
+* [pallas d (アーカイブ)](http://replay.web.archive.org/20070202090636/http://park3.wakwak.com/~pallas_d/)
