@@ -23,7 +23,7 @@ Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wik
 * 2001 年 5 月、3D Realms は発売時期の発表を求める声に対して &ldquo;When it's done&rdquo; トレーラーを E3 で公開。
 * 2002 年、Take-Two Interactive がゲームエンジンと開発チーム変更を発表。
 * 2003 年 5 月、Broussard 氏の &ldquo;Take-Two needs to STFU imo&rdquo; 発言で Take-Two Interactive との関係悪化。
-* 2004 年、物理エンジンに Karma を採用と発表。
+* 2004 年、物理エンジンに Meqon Game Dynamics SDK の Karma を採用と発表。
 * 2007 年、沈黙の後の新トレーラー公開。
 * 2009 年、販売元の Take-Two Interactive は開発元の 3D Realms に対して、販売元の権利を主張し控訴。
 * 2009 年 5 月、3D Realms は資金難により閉鎖。
