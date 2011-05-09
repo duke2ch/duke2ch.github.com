@@ -30,7 +30,6 @@ Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wik
 * 2009 年 5 月、元社員の少数が Triptych Studios を設立し、彼らの家で開発を継続。
 * 2009 年 5 月、かつての 3D Realms 同僚 Gearbox Software 共同設立者の Randy Pitchford 氏と Brian Martel 氏が Broussard 氏を含む 3D Realms の関係者に接触。
 * 2009 年 6 月、Gearbox Software が Duke Nukem Forever のリソースと権利を引き取る。
-* 2010 年 5 月、様々な問題を浮き彫りにしてこの件は終了した。
 * 2010 年 9 月 3 日、2K Games が Gearbox Software 開発の元、発売を正式に伝えた。
 * 2011 年 1 月、発売日が 2011 年 5 月 3 日と正式発表 (北米は 5 月 6 日)。
 * 2011 年 3 月、発売日の延期を発表。2011 年 6 月 10 日へ変更 (北米は 6 月 14 日)。
@@ -65,6 +64,19 @@ Gearbox Software のRandy Pitchford 氏と Brian Martel 氏が 3D Realms の開�
 
 動作環境
 --------
+
+* 初回起動時の Steam 認証が必要
+* インストール対象
+    * ゲーム本体
+    * Steam クライアント
+    * DirectX
+    * Visual C++ 2005 ランタイム
+    * Visual C++ 2008 ランタイム
+    * AMD Dual Core Optimizer (AMD 製 CPU 使用時)
+
+DLC やアンロック要素、オンラインコンテンツ等のフィーチャーは、シリアルコード登録、追加料金、アカウント登録 (13 歳以上) が必要な場合があります。特別なフィーチャーにアクセスするにはインターネット接続が必要な場合があります。また全てのユーザーに供給されない場合があります。
+
+* [Duke Nukem Forever PC System Requirements - Gearbox Software Forums](http://gbxforums.gearboxsoftware.com/showthread.php?t=120746)
 
 ### 必須環境
 

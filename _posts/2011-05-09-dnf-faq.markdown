@@ -100,7 +100,7 @@ Q: アドオンや DLC は出ますか。 DNF の次は?
 A: Gearbox has an internal philosophy when it comes to DLC of not just yanking content from their original game and then later selling it as DLC. With this in mind we don't begin to ponder the possible DLC scenarios until our game is in the certification process preparing to ship. We don't know yet.
 
 Q: Duke Nukem Forever に必要な動作環境は?  
-A: PlayStation 3 や Xbox360 は特にありません。 PC 版として、動作環境はまだ発表されていません。ご辛抱に感謝します。
+A: PlayStation 3 や Xbox360 は特にありません。 PC 版については[こちらのスレッドをお読み下さい。](http://gbxforums.gearboxsoftware.com/showthread.php?t=120746) &ldquo; [動作環境が発表されました。](./dnf-outline.html)
 
 Q: 何の DRM を PC 版では使いますか。  
 A: Steamworks を使います。 Steamworks と DNF の詳細は[このスレッドをご覧ください。](http://gbxforums.gearboxsoftware.com/showthread.php?t=117553)
