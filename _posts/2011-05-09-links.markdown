@@ -60,11 +60,6 @@ Duke Nukem Forever
 
 * [Duke Nukem Forever - Duke4.net: News](http://www.duke4.net/)
 
-Wikipedia
----------
-
-* [Duke Nukem Forever - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Duke_Nukem_Forever)
-* [Duke Nukem - Wikipedia 日本語](http://ja.wikipedia.org/wiki/Duke_Nukem)
 
 Duke Nukem 3D
 =============
@@ -75,6 +70,12 @@ Duke Nukem 3D
 * [3D Realms Site: Duke Nukem 3D Atomic Edition](http://www.3drealms.com/duke3d/)
 * [Duke Nukem - 3D Realms Forums](http://forums.3drealms.com/vb/forumdisplay.php?f=15)
 
+海外ファンサイト
+----------------
+
+* [Duke Nukem Repository](http://dukerepository.com/)
+
+
 国内レビュー
 ------------
 
@@ -82,15 +83,14 @@ Duke Nukem 3D
 * [ＰＣゲーム道場 - Duke Nukem 3D レビュー](http://www1.plala.or.jp/seiryu/Classic/Duke3D/Duke3d-top.html)
 * [FPSの超名作「Duke Nukem 3D」とは？](http://tegeyoka.com/game_play/gp_duke3d_top.html)
 
-Wikipedia
----------
-
-* [Duke Nukem 3D - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Duke_Nukem_3D)
-
-ソースコード
+ファイル
 ------------
 
-* [duke3dsource.zip](ftp://ftp.3drealms.com/source/)
+* [製品版ソースコード](ftp://ftp.3drealms.com/source/)
+* [コミュニティパッチ (EDuke)](ftp://ftp.3drealms.com/patches/eduke20.exe)
+* [シェアウェア版](ftp://ftp.3drealms.com/share/3dduke13.zip)
+* [開発版 (LameDuke)](ftp://ftp.3drealms.com/misc/lameduke.zip)
+* [Grabbag (Duke Nukem Theme)](ftp://ftp.3drealms.com/misc/grabbag.zip)
 
 ポートエンジン
 --------------
@@ -99,3 +99,21 @@ Wikipedia
 * [Duke Nukem 3D: High Resolution Pack](http://hrp.duke4.net/)
 * [JonoF's Games and Stuff : JFDuke3D](http://www.jonof.id.au/jfduke3d)
 
+
+Wikipedia
+=========
+
+英語
+----
+
+* [Duke Nukem](http://en.wikipedia.org/wiki/Duke_Nukem)
+* [Duke Nukem (character)](http://en.wikipedia.org/wiki/Duke_Nukem_(character))
+* [Duke Nukem 3D](http://en.wikipedia.org/wiki/Duke_Nukem_3D)
+* [Duke Nukem 3D: Reloaded](http://en.wikipedia.org/wiki/Duke_Nukem_3D:_Reloaded)
+* [Duke Nukem Forever](http://en.wikipedia.org/wiki/Duke_Nukem_Forever)
+* [Development history of Duke Nukem Forever](http://en.wikipedia.org/wiki/Development_history_of_Duke_Nukem_Forever)
+
+日本語
+------
+
+* [Duke Nukem](http://ja.wikipedia.org/wiki/Duke_Nukem)
