@@ -16,7 +16,7 @@ Grabbag (Duke Nukem Theme) は言わずも知れた Duke Nukem メインテー�
 公式ミックス
 ------------
 
-* [Original Grabbag (Duke Nukem Theme)](http://www.duke4.net/download.php?view.24) by Lee Jackson
+* [Original Grabbag (Duke Nukem Theme)](ftp://ftp.3drealms.com/misc/grabbag.zip) by Lee Jackson
 * [Duke Nukem Forever 2011](http://www.duke4.net/download.php?view.78)
 * [Duke Nukem Forever 2005](http://www.duke4.net/download.php?view.13)
 * [Duke Nukem Forever 2001](http://www.duke4.net/download.php?view.11)
@@ -24,6 +24,13 @@ Grabbag (Duke Nukem Theme) は言わずも知れた Duke Nukem メインテー�
 
 ファン・リミックス
 ------------------
+
+### Duke Nukem Theme FULL BAND COVER (Electric Violinist/Multi-instrumentalist) 
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/FkCz51qQwuU" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Brian Fitzy**
+* Web サイト: [Brian Fitzy](http://brianfitzy.bandcamp.com/)
 
 ### Duke Nukem Theme (cover)
 
@@ -40,6 +47,19 @@ Grabbag (Duke Nukem Theme) は言わずも知れた Duke Nukem メインテー�
 * アーティスト: **Thermometer10 (aka Gerlof)**
 * ダウンロード: [Duke4.net](http://www.duke4.net/download.php?view.75)
 
+### Tribute: Duke Nukem Main Theme "Grabbag" (Piano Version) - R.I.P. 3D Realms
+
+<iframe width="480" height="390" src="http://www.youtube.com/embed/T2GfX6l5cpQ" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **fotakatos**
+* ダウンロード: http://tiny.cc/hcxl0
+
+### Duke Nukem Jam
+
+<iframe width="480" height="390" src="http://www.youtube.com/embed/g-y0MdPXslo" frameborder="0" allowfullscreen></iframe>
+
+* アーティスト: **Chris Kline (aka VERTEXGUY)**
+* Web サイト: [V E R T E X G U Y - The Online Portfolio of Chris Kline](http://www.vertexguy.com./)
 
 ### Duke Nukem Grabbag metal cover
 
