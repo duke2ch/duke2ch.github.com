@@ -9,10 +9,10 @@ categories:
 Duke Nukem Forever
 ==================
 
-Come Get Some Trailer
----------------------
+&lsquo;Come Get Some&rsquo; Trailer
+-----------------------------------
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0syyhXFEETQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/RYygzP--ALA" frameborder="0" allowfullscreen></iframe>
 
 ### There's more where they came from.
 
@@ -28,10 +28,10 @@ Come Get Some Trailer
 
 デューク: いいとも、お前も俺みたいなイカした奴になれるかもな。
 
-Duke Nukem Forever: Official HD Debut Trailer
----------------------------------------------
+Duke Nukem Forever Reveal Trailer
+---------------------------------
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/wVuuyRGB_BA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/1-b78TKZIyw" frameborder="0" allowfullscreen></iframe>
 
 ### Damn it, why do they always take the hot ones?
 
@@ -71,8 +71,8 @@ Duke Nukem Forever: Official HD Debut Trailer
 
 デューク: ああ、だが 12 歳になったらな、間違いないぜ。
 
-その他参照先
-============
+語録の一覧
+==========
 
 * [Duke Nukem - Wikiquote](http://en.wikiquote.org/wiki/Duke_Nukem)
 * [pallas d (アーカイブ)](http://replay.web.archive.org/20070202090636/http://park3.wakwak.com/~pallas_d/)
