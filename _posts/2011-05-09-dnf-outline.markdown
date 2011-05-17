@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DNF 概要
+title: Duke Nukem Forever
 description: Duke Nukem Forever の概要です。
 categories:
 - 'Duke Nukem Forever'

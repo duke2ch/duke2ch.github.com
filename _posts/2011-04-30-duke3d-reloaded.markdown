@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reloaded
+title: 'Duke Nukem 3D: Reloaded'
 description: Duke Nukem 3D ファンプロジェクト Reloaded についてのページです。
 categories:
 - 'Duke Nukem 3D'

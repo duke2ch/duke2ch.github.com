@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Duke3D 概要
+title: Duke Nukem 3D
 description: Duke Nukem 3D の概要です。
 categories:
 - 'Duke Nukem 3D'

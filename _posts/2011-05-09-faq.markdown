@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DNF FAQ
+title: FAQ
 description: Duke Nukem Forever の公式 FAQ 和訳です。
 categories:
 - 'Duke Nukem Forever'

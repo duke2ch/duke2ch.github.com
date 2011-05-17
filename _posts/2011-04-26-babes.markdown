@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 娘たちの記録
+title: 娘たち
 description: Duke Nukem 3D 時代に花を添えた娘たち。
 categories:
 - 'Duke Nukem 3D'

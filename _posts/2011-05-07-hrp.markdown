@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HRP
+title: High Resolution Pack
 description: Duke Nukem 3D High Resolution Pack についてのページです。
 categories:
 - 'Duke Nukem 3D'
