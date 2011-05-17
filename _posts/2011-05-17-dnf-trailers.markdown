@@ -9,33 +9,49 @@ categories:
 Duke Nukem Forever トレーラー
 =============================
 
-## Shrinkage
+## Another important message about Duke Nukem Forever
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/R9y9TucIQ7U" frameborder="0" allowfullscreen></iframe>
+
+## UK TV trailer
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/7jm78ivvOZ8" frameborder="0" allowfullscreen></iframe>
+
+## Duke, Alice and the New GeForce GTX 560 Sneak Peek
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/5EAtlMy6Dcg" frameborder="0" allowfullscreen></iframe>
+
+## 2K Gamese &amp; Gearbox Software Present For Your Enjoyment: Shrinkage
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/GRHFdHwsUXw" frameborder="0" allowfullscreen></iframe>
 
-## Come Get Some trailer
+## &lsquo;Come Get Some&rsquo; Trailer
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0syyhXFEETQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/RYygzP--ALA" frameborder="0" allowfullscreen></iframe>
 
-## Babes
+## 2K Gamese &amp; Gearbox Software Present For Your Enjoyment: Babes
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/C8QHSngg9vk" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/yuZ8WBGIarI" frameborder="0" allowfullscreen></iframe>
 
 ## Randy Pitchford interview
 
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/7mjH3dBPtfw" frameborder="0" allowfullscreen></iframe>
 
-## History of a Legend (German subtitles)
+## History of a Legend - Chapter 1
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/vvWMN_jfR5E" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/oP5Zv5TWb_s" frameborder="0" allowfullscreen></iframe>
 
-## Feces!
+## 2K Gamese &amp; Gearbox Software Present For Your Enjoyment: Feces!
 
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/WALA791OZ_4" frameborder="0" allowfullscreen></iframe>
 
-## What Would Duke Do? 'Jetpack'
+## 2K Gamese &amp; Gearbox Software Present For Your Enjoyment: What Would Duke Do? 'Jetpack'
 
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/1I_j1AzOOSk" frameborder="0" allowfullscreen></iframe>
+
+## An important message about Duke Nukem Forever
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/G6fFKkmIrWM" frameborder="0" allowfullscreen></iframe>
 
 ## Voice of Duke Interview - Jon St John!
 
@@ -53,9 +69,9 @@ Duke Nukem Forever トレーラー
 
 <iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/0Wb8uxojdYU" frameborder="0" allowfullscreen></iframe>
 
-## Official HD Debut Trailer
+## Duke Nukem Forever Reveal Trailer
 
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/wVuuyRGB_BA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="390" src="http://www.youtube.com/embed/1-b78TKZIyw" frameborder="0" allowfullscreen></iframe>
 
 ## Official Trailer 2007
 
