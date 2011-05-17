@@ -278,18 +278,29 @@ blockquote:before {
     font-size: 72px;
 }
 
+ol,
 ul {
     margin-bottom: 1em;
 }
 
+ol li {
+    list-style-type: decimal;
+}
+
+ul li {
+    list-style-type: disc;
+}
+
+ul li li {
+    list-style-type: circle;
+}
+
 li {
     margin-left: 1em;
-    list-style-type: disc;
 }
 
 li li {
     margin-left: 1em;
-    list-style-type: circle;
 }
 
 /**
@@ -330,6 +341,10 @@ a {
 
 a:hover {
     text-shadow: 0 0 7px rgb(255,99,71);
+}
+
+em {
+    font-style: oblique;
 }
 
 strong {
@@ -486,6 +501,9 @@ article img {
 article section#toc {
     padding: 5px 20px;
     border: 1px solid rgb(105,105,105);
+}
+article section#toc ol {
+    margin-bottom: 0;
 }
 article section#toc p {
     margin-bottom: 0;
