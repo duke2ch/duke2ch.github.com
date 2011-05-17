@@ -124,7 +124,9 @@ Mac 及び Linux のリリースに関しては何の発表もありません。
 
 ### Duke Nukem Forever に必要な動作環境は?
 
-PlayStation 3 や Xbox360 は特にありません。 PC 版については[こちらのスレッドをお読み下さい。](http://gbxforums.gearboxsoftware.com/showthread.php?t=120746) &ldquo; [動作環境が発表されました。](./dnf-outline.html)
+PlayStation 3 や Xbox360 は特にありません。 PC 版については[こちらのスレッドをお読み下さい。](http://gbxforums.gearboxsoftware.com/showthread.php?t=120746)
+
+[*動作環境が発表されました。*](./dnf-outline.html)
 
 ### 何の DRM を PC 版では使いますか。
 
