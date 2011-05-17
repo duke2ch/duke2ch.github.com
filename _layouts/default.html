@@ -87,10 +87,10 @@ categories:
           {% for post in site.posts %}
             {% if post.categories contains category %}
             {% if page.title == post.title %}
-            <li class="active">{{ page.title | truncate: 18 }}</li>
+            <li class="active">{{ page.title | truncate: 20 }}</li>
             {% else %}
             <li>
-              <a href="{{ post.url }}">{{ post.title | truncate: 18 }}</a>
+              <a href="{{ post.url }}">{{ post.title | truncate: 24 }}</a>
             </li>
             {% endif %}
             {% endif %}

@@ -529,8 +529,8 @@ nav ul#nav > li * {
 }
 nav ul#nav > li li {
     padding: 5px;
-    width: 140px; /* 14px * 10em */
-    height: 19.6px; /* 14px * 140% */
+    width: 168px; /* 14px * 12em */
+    /*height: 19.6px; /* 14px * 140% */*/ /* 入れ子メニューが必要な場合のみ */
 }
 nav ul#nav > li li.active {
     font-weight: bolder;
@@ -549,7 +549,6 @@ nav ul#nav li:hover > ul {
     color: rgb(0,0,0);
     background-color: rgb(255,255,255);
 }
-
 
 aside {
     padding: 10px;;
