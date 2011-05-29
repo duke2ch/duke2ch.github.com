@@ -74,8 +74,11 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * ビデオカード: nVIDIA GeForce **8800 GTS** / ATI Radeon HD **3850**
 * サウンドカード: DirectX 互換のもの
 
-開発の略歴
-----------
+開発の歴史
+==========
+
+略歴
+----
 
 * 1997 年、3D Realms がディレクター George Broussard 氏の元、開発を開始。
 * 1997 年 4 月、GT Interactive が販売元で、3D Realms より正式に開発発表。
@@ -99,8 +102,8 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 5 月 17 日、First Access Club メンバー向けのデモ版リリース日が 2011 年 6 月 3 日に決定。
 * 2011 年 5 月 25 日、[Gold アナウンス。](http://gbxforums.gearboxsoftware.com/showthread.php?t=121799)
 
-開発の裏側
-----------
+裏側
+----
 
 ### 3D Realms の偉業
 
@@ -120,7 +123,8 @@ Gearbox Software が Duke Nukem Forever のリソースを引き継いだ時点�
 
 Gearbox Software のRandy Pitchford 氏と Brian Martel 氏が 3D Realms の開発者へ手を差し伸べたのは英断であった。理想を追いかけ、歴史に残る長い年月をかけてビッグタイトルの開発を続けていた 3D Realms の George Broussard 氏に歩み寄り、彼とその仲間たちが抱えていた大作へのプレッシャーを受け止め、vaperware として終わらせない方法を提示できたのも、彼らが信頼され、また彼らも Broussard 氏を始めとする 3D Realms を尊敬していたからだろう。
 
-### 詳しい経緯
+詳しい経緯
+----------
 
 * [D Magazine : Duke Nukem Forever: The Video Game That Wouldn't Die](http://www.dmagazine.com/Home/D_Magazine/2011/May/Duke_Nukem_Forever_The_Video_Game_That_Wouldnt_Die.aspx)
 * [リリースが現実的になった今、改めて振り返る「Duke Nukem Forever」の壮絶な歴史 « doope! 国内外のゲーム情報総合サイト](http://doope.jp/2011/0318039.html)
