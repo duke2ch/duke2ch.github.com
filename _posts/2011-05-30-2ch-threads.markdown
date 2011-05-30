@@ -14,8 +14,8 @@ categories:
 過去スレ
 ========
 
-* [Duke Nukem Forever](http://yuzuru.2ch.net/test/read.cgi/gamef/1283598672/)
-* [【まだまだ】 Duke Nukem 3D 【現役!?】](http://yomi.mobi/read.cgi/game10/game10_game_1028945772/)
+* [Duke Nukem Forever](http://yuzuru.2ch.net/test/read.cgi/gamef/1283598672/) ([dat](./archives/1283598672.dat))
+* [【まだまだ】 Duke Nukem 3D 【現役!?】](http://yomi.mobi/read.cgi/game10/game10_game_1028945772/) ([dat](./archives/1028945772.dat))
 
 テンプレート
 ============
