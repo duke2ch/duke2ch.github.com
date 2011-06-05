@@ -21,11 +21,14 @@ Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wik
 * お馴染みの武器 Shrink Ray は健在で、今作では[敵だけでなく Duke も小さくなり戦うシーンがある。](http://www.youtube.com/watch?v=GRHFdHwsUXw)
 * カーアクションが取り入れられており、敵に小さくされた Duke がミニカーで走り回るイベント等がある。
 * マルチプレイでは、[Duke Nukem 3D の Hollywood Holocaust (エピソード 1 の 1 面) がマルチプレイマップとして登場する。](http://www.gamespot.com/xbox360/action/dukenukemforever/video/6312562/duke-nukem-forever-multiplayer-interview)
-* マルチプレイでは Capture the Babe モードという CTF 変形ルールモードが搭載される予定。
+* マルチプレイでは Capture the Babe モードという CTF 変形ルールモードが搭載される。
+* 武器の所持は同時に 2 つまでに制限される (パイプボムはショートカットキーが用意されているので別)。
+* デモ版からゲームエンジンには Unreal Engine が使用されていることが読み取れる。
+* FOV は 70 前後で固定。変更方法は現状なし。
+* マウス感度は 2 種類のオプションでそれぞれ 10 段階で変更可能。ただしアクセラレーションが強く操作感は悪い。
 
 ### 否定的意見
 
-* 様々なプレイ動画やスクリーンショット等から武器が 2 つまでしか持てないのではないか、という疑念がある。
 * グラフィック向上と共に、敵の同時出現数が減少している印象を受ける。沢山の敵と打ち合うというシチュエーションがどの程度盛り込まれているか不安がある。
 * MOD 対応は未定であり、発売後に SDK 等リリースされるのか不透明。
 * マルチプレイ開発がパートナー会社という事で、シングルプレイとマルチプレイが別々のバイナリになるのではないかという疑念がある。その点がどう MOD に影響するのか不安もある。
@@ -37,6 +40,10 @@ Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wik
 発売は 2011 年 6 月 10 日 (北米は 2011 年 6 月 14 日) の予定です。コンソール版は [2K Games 日本法人](http://www.2kgames.jp/)より発売予定で、[日本語版 (日英音声同時収録) も発売予定です。](http://game.watch.impress.co.jp/docs/news/20110428_442837.html)
 
 PC 版は Steamworks の採用が決定しており、[Steam の商品ページ](http://store.steampowered.com/app/57900/)も既に出来ていますが、**地域規制が敷かれており、日本国内での販売がどうなるのか不透明な状況です。**各種ダウンロード販売サイトでは同様に地域規制が敷かれていますので、通常の方法では購入不可能です。輸入版パッケージを、米 Amazon 等から購入する事は可能ですが、発売日に Steam での認証作業が必要になります。またこの認証作業が問題なく通る保証はありません。 Steam での販売価格は予約販売の現在 10% OFF の [$44.99](http://www.google.co.jp/search?q=44.99+USD+in+JPY) です。
+
+First Access Club メンバー向けにデモ版の配布が行われたが、日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状。](http://imgur.com/a/RcvoC)
+
+[Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、それが 2K Games の意向である事が伺える。
 
 動作環境
 --------
@@ -101,6 +108,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 3 月、発売日の延期を発表。2011 年 6 月 10 日へ変更 (北米は 6 月 14 日)。
 * 2011 年 5 月 17 日、First Access Club メンバー向けのデモ版リリース日が 2011 年 6 月 3 日に決定。
 * 2011 年 5 月 25 日、[Gold アナウンス。](http://gbxforums.gearboxsoftware.com/showthread.php?t=121799)
+* 2011 年 6 月 3 日、日本国内以外の First Access Club メンバー向けにデモ版がリリースされる。
 
 裏側
 ----
