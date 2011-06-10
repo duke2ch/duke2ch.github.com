@@ -39,11 +39,15 @@ Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wik
 
 発売は 2011 年 6 月 10 日 (北米は 2011 年 6 月 14 日) の予定です。コンソール版は [2K Games 日本法人](http://www.2kgames.jp/)より発売予定で、[日本語版 (日英音声同時収録) も発売予定です。](http://game.watch.impress.co.jp/docs/news/20110428_442837.html)
 
-PC 版は Steamworks の採用が決定しており、[Steam の商品ページ](http://store.steampowered.com/app/57900/)も既に出来ていますが、**地域規制が敷かれており、日本国内での販売がどうなるのか不透明な状況です。**各種ダウンロード販売サイトでは同様に地域規制が敷かれていますので、通常の方法では購入不可能です。輸入版パッケージを、米 Amazon 等から購入する事は可能ですが、発売日に Steam での認証作業が必要になります。またこの認証作業が問題なく通る保証はありません。 Steam での販売価格は予約販売の現在 10% OFF の [$44.99](http://www.google.co.jp/search?q=44.99+USD+in+JPY) です。
+PC 版は Steamworks の採用が決定しており、[Steam の商品ページ](http://store.steampowered.com/app/57900/)も既に出来ていますが、**地域規制が敷かれており、日本国内での販売がどうなるのか不透明な状況です。**各種ダウンロード販売サイトでは同様に地域規制が敷かれていますので、通常の方法では購入不可能です。輸入版パッケージを、米 Amazon 等から購入する事は可能ですが、発売日に Steam での認証作業が必要になります。またこの認証作業が問題なく通る保証はありません。
+
+### デモ版
 
 First Access Club メンバー向けにデモ版の配布が行われたが、日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状。](http://imgur.com/a/RcvoC)
 
 [Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、それが 2K Games の意向である事が伺える。
+
+[2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)はまだ出ていない。
 
 動作環境
 --------

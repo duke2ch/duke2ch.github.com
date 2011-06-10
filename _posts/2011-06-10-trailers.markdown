@@ -9,6 +9,10 @@ categories:
 Duke Nukem Forever トレーラー
 =============================
 
+## Duke Nukem Forever Launch Trailer
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/7FV9ZF621uc" frameborder="0" allowfullscreen></iframe>
+
 ## PowerPlayr - Duke Nukem Forever 4 of 4
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/4PLNmfu7Fsg" frameborder="0" allowfullscreen></iframe>
