@@ -11,28 +11,32 @@ Duke Nukem Forever とは...
 
 Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズ待望の最新作です。
 
-ゲームプレイ
+発売後の近況
 ------------
 
-### 判明している事
+* Metascore は [76 点。](http://www.metacritic.com/game/pc/duke-nukem-forever) (Duke Nukem 3D は [89 点。](http://www.metacritic.com/game/pc/duke-nukem-3d))
+* プレイ時間は [8-10 時間と 12-16 時間という声が平均的。](http://forums.gearboxsoftware.com/showthread.php?t=124428)
+* Dedicated サーバーが[非サポートながら実装されている。](http://forums.gearboxsoftware.com/showthread.php?t=123671)
+* コンソール利用や FOV 変更が無効化されているが、[Flawless Widescreen](http://www.flawlesswidescreen.org/) で対応可能。
+* `DNCLIP` や `DNWEAPONS` 等のチーとコードも製品版では無効化されているが、チーとコードを有効化する `user.ini` が[フォーラムに投稿された。](http://forums.gearboxsoftware.com/showthread.php?t=124565) ([バックアップ](./archives/user.ini))
 
-* 体力の概念は EGO という概念に置き換えられており、実質的 HP 自動回復が取り入れられている。
-* オープニングは Duke Nukem 3D のエピソード 3 エピローグの疑似体験から始まる。
-* お馴染みの武器 Shrink Ray は健在で、今作では[敵だけでなく Duke も小さくなり戦うシーンがある。](http://www.youtube.com/watch?v=GRHFdHwsUXw)
-* カーアクションが取り入れられており、敵に小さくされた Duke がミニカーで走り回るイベント等がある。
-* マルチプレイでは、[Duke Nukem 3D の Hollywood Holocaust (エピソード 1 の 1 面) がマルチプレイマップとして登場する。](http://www.gamespot.com/xbox360/action/dukenukemforever/video/6312562/duke-nukem-forever-multiplayer-interview)
-* マルチプレイでは Capture the Babe モードという CTF 変形ルールモードが搭載される。
-* 武器の所持は同時に 2 つまでに制限される (パイプボムはショートカットキーが用意されているので別)。
-* デモ版からゲームエンジンには Unreal Engine が使用されていることが読み取れる。
-* FOV は 70 前後で固定。変更方法は現状なし。
-* マウス感度は 2 種類のオプションでそれぞれ 10 段階で変更可能。ただしアクセラレーションが強く操作感は悪い。
-
-### 否定的意見
-
-* グラフィック向上と共に、敵の同時出現数が減少している印象を受ける。沢山の敵と打ち合うというシチュエーションがどの程度盛り込まれているか不安がある。
-* MOD 対応は未定であり、発売後に SDK 等リリースされるのか不透明。
-* マルチプレイ開発がパートナー会社という事で、シングルプレイとマルチプレイが別々のバイナリになるのではないかという疑念がある。その点がどう MOD に影響するのか不安もある。
-* Gearbox Software が Borderlands で PC 版の最適化が酷かったので、今作にもそういった不安がある。
+> Made cheating user.ini
+>
+> You can thank me.
+>
+> F2 - Toggle God Mode  
+> F3 - Maximum Ego  
+> F4 - All Weapons & Inventory  
+> F5 - Toggle Unlimited Ammo  
+> F6 - Toggle clip Mode  
+> F7 - Fly Mode  
+> F8 - Walk Mode  
+> F9 - Toggle Invisibility  
+> F10 - Take Screenshot  
+> F11 - Toggle 3rd person view  
+> F12 - Toggle Framerate
+>
+> [http://www.megaupload.com/?d=XEI58J57](http://www.megaupload.com/?d=XEI58J57)
 
 ゲームの入手
 ------------
@@ -45,9 +49,9 @@ PC 版は Steamworks の採用が決定しており、[Steam の商品ページ]
 
 First Access Club メンバー向けにデモ版の配布が行われたが、日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状。](http://imgur.com/a/RcvoC)
 
-[Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、それが 2K Games の意向である事が伺える。
-
-[2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)はまだ出ていない。
+* [Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、それが 2K Games の意向である事が伺える。
+* [2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)はまだ出ていない。
+* チーとコードが使用可能で、`DNCLIP` を使用して [Holsom 姉妹に会いに行ける。](http://www.youtube.com/watch?v=yCfpE9yMEYs)
 
 動作環境
 --------
@@ -113,6 +117,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 5 月 17 日、First Access Club メンバー向けのデモ版リリース日が 2011 年 6 月 3 日に決定。
 * 2011 年 5 月 25 日、[Gold アナウンス。](http://gbxforums.gearboxsoftware.com/showthread.php?t=121799)
 * 2011 年 6 月 3 日、日本国内以外の First Access Club メンバー向けにデモ版がリリースされる。
+* 2011 年 6 月 10 日、インターナショナル版リリース。
 
 裏側
 ----
