@@ -9,49 +9,52 @@ categories:
 Duke Nukem Forever とは...
 ==========================
 
-Duke Nukem Forever とは近日発売予定の [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズ待望の最新作です。
+Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズで、約 15 年の開発のすえ発売された待望の最新作です。
+
+メモ
+----
+
+### コンソールの使用
+
+1. [Flawless Widescreen](http://www.flawlesswidescreen.org/) をダウンロードする。
+2. ダウンロードしたファイルを適当な場所 (展開場所によっては起動時エラーが出て使用不能になるバグがある) に展開し、Flawless Widescreen を起動する。
+3. Duke Nukem Forever を起動する。
+4. Alt + Tab 等で Flawless Widescreen に切り替える。
+5. Flawless Widescreen の Show Log 項目の Do It ボタンをクリックする。
+6. コンソールウィンドウが表示される。
+
+### マウス感度の調整
+
+1. Duke Nukem Forver 起動中に [Flawless Widescreen](http://www.flawlesswidescreen.org/) を使用してコンソールを呼び出す。
+2. コンソールに `set Engine.PlayerPawn MouseAccelDampening 0.0001` と打ち込み確定する。
+3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と打ち込み確定する。
+
+### 設定ファイルの保存場所
+
+* Steam Cloud 上にのみセーブデータや設定ファイル (user.ini 等) を保存する為、ローカルでの閲覧・編集が不可能?
 
 発売後の近況
 ------------
 
-* Metascore は [76 点。](http://www.metacritic.com/game/pc/duke-nukem-forever) (Duke Nukem 3D は [89 点。](http://www.metacritic.com/game/pc/duke-nukem-3d))
-* プレイ時間は [8-10 時間と 12-16 時間という声が平均的。](http://forums.gearboxsoftware.com/showthread.php?t=124428)
-* Dedicated サーバーが[非サポートながら実装されている。](http://forums.gearboxsoftware.com/showthread.php?t=123671)
+* Metascore は [57 点](http://www.metacritic.com/game/pc/duke-nukem-forever) (Duke Nukem 3D は [89 点](http://www.metacritic.com/game/pc/duke-nukem-3d))。
+* プレイ時間は [8-10 時間と 12-16 時間](http://forums.gearboxsoftware.com/showthread.php?t=124428)というフィードバックが多い。
+* Dedicated サーバーが、[非サポートながら実装](http://forums.gearboxsoftware.com/showthread.php?t=123671)されている。
 * コンソール利用や FOV 変更が無効化されているが、[Flawless Widescreen](http://www.flawlesswidescreen.org/) で対応可能。
-* `DNCLIP` や `DNWEAPONS` 等のチーとコードも製品版では無効化されているが、チーとコードを有効化する `user.ini` が[フォーラムに投稿された。](http://forums.gearboxsoftware.com/showthread.php?t=124565) ([バックアップ](./archives/user.ini))
-
-> Made cheating user.ini
->
-> You can thank me.
->
-> F2 - Toggle God Mode  
-> F3 - Maximum Ego  
-> F4 - All Weapons & Inventory  
-> F5 - Toggle Unlimited Ammo  
-> F6 - Toggle clip Mode  
-> F7 - Fly Mode  
-> F8 - Walk Mode  
-> F9 - Toggle Invisibility  
-> F10 - Take Screenshot  
-> F11 - Toggle 3rd person view  
-> F12 - Toggle Framerate
->
-> [http://www.megaupload.com/?d=XEI58J57](http://www.megaupload.com/?d=XEI58J57)
 
 ゲームの入手
 ------------
 
-発売は 2011 年 6 月 10 日 (北米は 2011 年 6 月 14 日) の予定です。コンソール版は [2K Games 日本法人](http://www.2kgames.jp/)より発売予定で、[日本語版 (日英音声同時収録) も発売予定です。](http://game.watch.impress.co.jp/docs/news/20110428_442837.html)
+発売日は 2011 年 6 月 10 日 (北米は 2011 年 6 月 14 日) です。コンソール版は [2K Games 日本法人](http://www.2kgames.jp/)より発売予定で、[日本語版 (日英音声同時収録) も発売予定](http://game.watch.impress.co.jp/docs/news/20110428_442837.html)です。ただし、発売日は現在未定です。
 
-PC 版は Steamworks の採用が決定しており、[Steam の商品ページ](http://store.steampowered.com/app/57900/)も既に出来ていますが、**地域規制が敷かれており、日本国内での販売がどうなるのか不透明な状況です。**各種ダウンロード販売サイトでは同様に地域規制が敷かれていますので、通常の方法では購入不可能です。輸入版パッケージを、米 Amazon 等から購入する事は可能ですが、発売日に Steam での認証作業が必要になります。またこの認証作業が問題なく通る保証はありません。
+PC 版は Steamworks を採用しており、[Steam の商品ページ](http://store.steampowered.com/app/57900/)もあります。当初は地域規制が敷かれていました。しかし北米版発売後の 6 月 14 日以降はこれが解除されており、商品ページアクセス規制や VPN を使用しないと遊べないといった状況は解消されています。現在は日本国内から問題なく認証が通り、遊べるようです。ただし、Steam での販売価格は、**北米価格に 10 USD 上乗せした価格での販売**になっています。
 
 ### デモ版
 
-First Access Club メンバー向けにデモ版の配布が行われたが、日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状。](http://imgur.com/a/RcvoC)
+First Access Club メンバー向けに、発売前のデモ版配布が行われました。しかし日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状](http://imgur.com/a/RcvoC)です。
 
-* [Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、それが 2K Games の意向である事が伺える。
-* [2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)はまだ出ていない。
-* チーとコードが使用可能で、`DNCLIP` を使用して [Holsom 姉妹に会いに行ける。](http://www.youtube.com/watch?v=yCfpE9yMEYs)
+* [Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、規制は 2K Games の意向である事が伺える。
+* [2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)、日本国内 FAC メンバーへのデモ配布が行われるのは依然不透明。
+* チーとコード (`DNCLIP`, `DNWEAPONS`) が使用可能で、`DNCLIP` を使用して [Holsom 姉妹に会いに行ける。](http://www.youtube.com/watch?v=yCfpE9yMEYs)
 
 動作環境
 --------
@@ -118,6 +121,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 5 月 25 日、[Gold アナウンス。](http://gbxforums.gearboxsoftware.com/showthread.php?t=121799)
 * 2011 年 6 月 3 日、日本国内以外の First Access Club メンバー向けにデモ版がリリースされる。
 * 2011 年 6 月 10 日、インターナショナル版リリース。
+* 2011 年 6 月 14 日、北米版リリース。
 
 裏側
 ----
