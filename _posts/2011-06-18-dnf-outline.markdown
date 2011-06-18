@@ -20,14 +20,23 @@ Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%
 2. ダウンロードしたファイルを適当な場所 (展開場所によっては起動時エラーが出て使用不能になるバグがある) に展開し、Flawless Widescreen を起動する。
 3. Duke Nukem Forever を起動する。
 4. Alt + Tab 等で Flawless Widescreen に切り替える。
-5. Flawless Widescreen の Show Log 項目の Do It ボタンをクリックする。
+5. Flawless Widescreen の Show Log Window 項目の Do It ボタンをクリックする。
 6. コンソールウィンドウが表示される。
+7. コンソールウィンドウに `set input Tilde ShowControls | Type` と入力し確定する。
+8. 以降、ゲーム内で `~` キーを押下すれば in-game のコンソールが表示される。
+
+コンソールで変更したオプションは保存されるので、一度実行すれば再度変更するまで有効です。
 
 ### マウス感度の調整
 
-1. Duke Nukem Forver 起動中に [Flawless Widescreen](http://www.flawlesswidescreen.org/) を使用してコンソールを呼び出す。
-2. コンソールに `set Engine.PlayerPawn MouseAccelDampening 0.0001` と打ち込み確定する。
-3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と打ち込み確定する。
+1. コンソールを呼び出す。
+2. コンソールに `set Engine.PlayerPawn MouseAccelDampening 0.0001` と入力し確定する。
+3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と入力し確定する。
+
+### Bumpmap の改善
+
+1. コンソールを呼び出す。
+2. コンソールに `r_bumpmipbias -1` と入力し確定する。
 
 ### 設定ファイルの保存場所
 
