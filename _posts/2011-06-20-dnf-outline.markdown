@@ -23,9 +23,9 @@ Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%
 5. Flawless Widescreen の Show Log Window 項目の Do It ボタンをクリックする。
 6. コンソールウィンドウが表示される。
 7. コンソールウィンドウに `set input Tilde ShowControls | Type` と入力し確定する。
-8. 以降、ゲーム内で `~` キーを押下すれば in-game のコンソールが表示される。
+8. 以降、ゲーム内で `~` キーを押下すれば in-game の SOS コンソールが表示される。
 
-コンソールで変更したオプションは保存されるので、一度実行すれば再度変更するまで有効です。
+コンソールで変更したオプションは保存されるので、一度実行すれば再度変更するまで有効です。尚 SOS コンソールでチートを使用した場合、実績が解除されないようですので、実績を気にする場合は注意が必要です。
 
 ### マウス感度の調整
 
@@ -33,14 +33,26 @@ Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%
 2. コンソールに `set Engine.PlayerPawn MouseAccelDampening 0.0001` と入力し確定する。
 3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と入力し確定する。
 
+### DOF の無効化
+
+1. コンソールを呼び出す。
+2. コンソールに `r_dofpow 0` と入力し確定する。
+
 ### Bumpmap の改善
 
 1. コンソールを呼び出す。
 2. コンソールに `r_bumpmipbias -1` と入力し確定する。
 
+### FOV の変更
+
+1. コンソールを呼び出す。
+2. コンソールに `FOV 85` と入力し確定する。
+
+ただし Duke が死ぬと初期値にリセットされてしまうようです。 Flawless Widescreen で対応した方が良いかもしれません。
+
 ### 設定ファイルの保存場所
 
-* Steam Cloud 上にのみセーブデータや設定ファイル (user.ini 等) を保存する為、ローカルでの閲覧・編集が不可能?
+Steam Cloud 上にのみセーブデータや設定ファイル (user.ini 等) を保存する為、ローカルでの閲覧・編集が不可能?
 
 発売後の近況
 ------------
