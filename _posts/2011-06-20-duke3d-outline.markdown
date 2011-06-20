@@ -18,12 +18,13 @@ Duke Nukem 3D が当時受けた評価は概ね好意的です。ゲーム世界
 ゲームの入手
 ------------
 
-古い作品なので一般的な流通ルートでの購入は難しいようです。Duke Nukem シリーズと、同じ Build エンジンのゲーム Blood はダウンロード販売サイト GOG.com で DRM フリーの物が購入可能です。
+古い作品なので一般的な流通ルートでの購入は難しいようです。Duke Nukem 3D の最終版 Atomic Edition と、外伝の横スクロールアクション Manhattan Project、及び同じ Build エンジンのゲーム Blood と Redneck Rampage はダウンロード販売サイト GOG.com で DRM フリーの物が購入可能です。
 
 * GOG.com
-    * [Duke Nukem 3D: Atomic Edition - GOG.com](http://www.gog.com/en/gamecard/duke_nukem_3d_atomic_edition) $5.99
-    * [Duke Nukem: Manhattan Project - GOG.com](http://www.gog.com/en/gamecard/duke_nukem_manhattan_project) $5.99
-    * [Blood (One Unit Whole Blood) - GOG.com](http://www.gog.com/en/gamecard/one_unit_whole_blood) $5.99
+    * [Duke Nukem 3D: Atomic Edition - GOG.com](http://www.gog.com/en/gamecard/duke_nukem_3d_atomic_edition) 5.99 USD
+    * [Duke Nukem: Manhattan Project - GOG.com](http://www.gog.com/en/gamecard/duke_nukem_manhattan_project) 5.99 USD
+    * [Blood (One Unit Whole Blood) - GOG.com](http://www.gog.com/en/gamecard/one_unit_whole_blood) 5.99 USD
+    * [Redneck Rampage Collection - GOG.com](http://www.gog.com/en/gamecard/redneck_rampage_collection) 2.99 USD
 
 ストーリー
 ----------
