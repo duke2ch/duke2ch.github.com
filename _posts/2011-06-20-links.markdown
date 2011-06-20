@@ -60,6 +60,13 @@ Duke Nukem Forever
 
 * [Duke Nukem Forever - Duke4.net: News](http://www.duke4.net/)
 * [:: BOOB TUBE :: SAUCY ENTERTAINMENT SINCE 1991 ::](http://www.boob-tube.eu/)
+* [Portal:Duke Nukem Forever - Duke Nukem Wiki](http://dukenukem.wikia.com/wiki/Portal:Duke_Nukem_Forever)
+
+国内レビュー
+------------
+
+* [Duke Nukem Forever: 大人の男向けの娯楽としての FPS ゲーム - Nomeu.net](http://nomeu.net/2011/06/duke-nukem-forever-%E5%A4%A7%E4%BA%BA%E3%81%AE%E7%94%B7%E5%90%91%E3%81%91%E3%81%AE%E5%A8%AF%E6%A5%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE-fps-%E3%82%B2%E3%83%BC%E3%83%A0/)
+* [Duke Nukem Forever 批評 （デューク・ニューケム フォーエバー） | GAME LIFE](http://www.game-damashi.com/review/duke-nukem-forever.html)
 
 
 Duke Nukem 3D
@@ -76,7 +83,7 @@ Duke Nukem 3D
 
 * [Duke Nukem 3D: Reloaded](http://www.dukenukemreloaded.com/)
 * [Duke Nukem Repository](http://dukerepository.com/)
-
+* [Portal:Duke Nukem 3D - Duke Nukem Wiki](http://dukenukem.wikia.com/wiki/Portal:Duke_Nukem_3D)
 
 国内レビュー
 ------------
@@ -109,7 +116,7 @@ Wikipedia
 ----
 
 * [Duke Nukem](http://en.wikipedia.org/wiki/Duke_Nukem)
-* [Duke Nukem (character)](http://en.wikipedia.org/wiki/Duke_Nukem_(character))
+* [Duke Nukem (character)](http://en.wikipedia.org/wiki/Duke_Nukem_(character\))
 * [Duke Nukem 3D](http://en.wikipedia.org/wiki/Duke_Nukem_3D)
 * [Duke Nukem 3D: Reloaded](http://en.wikipedia.org/wiki/Duke_Nukem_3D:_Reloaded)
 * [Duke Nukem Forever](http://en.wikipedia.org/wiki/Duke_Nukem_Forever)
