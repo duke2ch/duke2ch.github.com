@@ -1,0 +1,85 @@
+---
+layout: default
+title: 2ch スレッド
+description: Duke Nukem 関連の 2ch スレッド一覧です。
+categories:
+- '総合'
+---
+スレッド
+========
+
+現行
+----
+
+* [Duke Nukem Forever 3 - come get some](http://yuzuru.2ch.net/test/read.cgi/gamef/1308470257/)
+
+過去
+----
+
+* [Duke Nukem Forever 2 - come get some](http://yuzuru.2ch.net/test/read.cgi/gamef/1305867793/) ([dat](./archives/1305867793.dat))
+* [Duke Nukem Forever](http://yuzuru.2ch.net/test/read.cgi/gamef/1283598672/) ([dat](./archives/1283598672.dat))
+* [【まだまだ】 Duke Nukem 3D 【現役!?】](http://yomi.mobi/read.cgi/game10/game10_game_1028945772/) ([dat](./archives/1028945772.dat))
+
+テンプレート
+============
+
+補足
+----
+
+<pre>
+【公式サイト(日本語)】
+http://www.2kgames.jp/dnf/
+
+【Steam商品ページ】
+http://store.steampowered.com/app/57900/
+
+【まとめ】
+http://duke2ch.github.com/
+</pre>
+
+現行
+----
+
+<pre>
+15年の月日をかけて、Dukeが俺たちの元に帰ってくる！
+
+Duke Nukem 3Dからのファンのおっさんから、
+Foreverからの新参組まで come get some!!
+
+■発売日
+　先行予約デモ：2011年6月3日
+　世界発売日：2011年6月10日
+　アメリカ発売：2011年6月14日
+
+■公式
+　http://www.dukenukemforever.com/
+
+前スレ
+
+Duke Nukem Forever 2 - come get some
+http://yuzuru.2ch.net/test/read.cgi/gamef/1305867793/
+</pre>
+
+過去
+----
+
+<pre>
+発売も決まったことだし立てた
+　　 
+2011年発売予定
+
+プラットフォーム：PC/PS3/Xbox360
+
+■公式
+　ttp://www.dukenukemforever.com/
+　3DRealms公式
+　ttp://www.3drealms.com/
+
+■その他
+　　動画等
+　　ttp://www.gametrailers.com/game/duke-nukem-forever/360
+　　98年版トレーラー
+　　ttp://www.youtube.com/watch?v=omOPjBoClw0
+　　01年版トレーラー
+　　ttp://www.youtube.com/watch?v=iPX_y7wP_ko
+</pre>
