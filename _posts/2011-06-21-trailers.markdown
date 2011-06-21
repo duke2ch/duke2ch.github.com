@@ -9,6 +9,10 @@ categories:
 Duke Nukem Forever トレーラー
 =============================
 
+## History of a Legend - Chapter 3
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/Aynlu6rKntc" frameborder="0" allowfullscreen></iframe>
+
 ## Duke Nukem Forever Launch Trailer
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/7FV9ZF621uc" frameborder="0" allowfullscreen></iframe>
