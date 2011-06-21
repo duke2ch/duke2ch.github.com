@@ -1,0 +1,157 @@
+---
+layout: default
+title: FAQ
+description: Duke Nukem Forever の公式 FAQ 和訳です。
+categories:
+- 'Duke Nukem Forever'
+---
+
+Duke Nukem
+==========
+
+キャラクター
+------------
+
+### Duke Nukem の年齢は?
+
+> In the old days, we always intended Duke to be in his mid 30's. I don't think DNF addresses his age anywhere, though.  
+
+* [How old do you think Duke is in DNF? - Gearbox Software Forums](http://forums.gearboxsoftware.com/showpost.php?p=2374886&postcount=6)
+
+Duke Nukem Forever のゲーム内では Duke Nukem 3D で Cycloid Emperor を倒してから 12 年経ったと語っていますが、現在の年齢については触れられていません。
+尚、[wiki を参照](http://dukenukem.wikia.com/wiki/Duke_Nukem_\(character\)#Fictional_History)すると初代シリーズから時系列的に推察すると、既に 40 代であるとも考えられます。公式な発言からすれば、Duke Nukem は永遠の 30 代と言ったところでしょうか。
+
+Duke Nukem Forever 公式 FAQ 和訳
+================================
+
+* [Duke Nukem Forever FAQ - READ BEFORE POSTING! - Gearbox Software Forums](http://gbxforums.gearboxsoftware.com/showthread.php?t=114432)
+
+Ordering Information
+--------------------
+
+### Duke Nukem Forever の注文方法は?
+
+> It can be purchased at numerous retailers and videogame stores near you, check your local listings. It can also be ordered via numerous online retailers, such as Amazon.com and others. It can also be ordered completely digitally [via Steam](http://store.steampowered.com/app/57900/).
+
+[Steam](http://store.steampowered.com/app/57900/) や輸入ゲーム店などで購入出来ます。
+
+### 対応プラットフォームは?
+
+ゲームは PC, Xbox 360, PlayStation 3 でリリースされています。通常版と Balls of Steel 版 (BoS 版の詳細は別記)の 2 種類が入手可能です。両バージョンとも上記 3 つプラットフォーム向けにリリースされています。
+
+### Duke Nukem Forever 関連グッズは何かある?
+
+はい、[Gearbox ストア](http://shop.gearboxsoftware.com/duke-nukem-forever/)をご覧下さい。
+
+### まだ First Access Club のコードは手に入る?
+
+First Access Club コードは予約特典の為もう入手出来ません。しかし Borderlands Game of the Year Edition は引き続き販売中です。もし未登録の First Access Club コードをお持ちなら、[こちら](http://www.dukenukemforever.com/access/entry/)で登録出来ます。
+
+Balls of Steel Edition
+----------------------
+
+### Balls of Steel 版はどこで購入できる?
+
+Duke Nukem Forever Balls of Steel Edition は主に米国の [GameStop](http://www.gamestop.com/) と [Amazon](http://www.amazon.com/) で入手可能です。
+
+UPDATE (6/17): GameStop の在庫が無くなり販売が終了しました。現状 Amazon.com はまた全プラットフォーム向けに販売継続中です。
+
+### 米国外の入手は可能?
+
+はい、Duke Nukem Forever Balls of Steel Edition は世界中で入手可能です。ただし US バージョンと同じく数が限られていますので、お求めの店舗へお問い合わせ下さい。カナダとイギリスの Amazon もまた在庫切れとなっています。しかし UK オンライン販売店のいくつか (play, shopto, & Zaavi) はまだ在庫があります (6/17 現在)。
+
+### 総生産数はいくつ?
+
+Balls of Steel が全世界で 136,000 個で、売上は販売数に応じて各地域に配分されます。Balls of Steel Edition はコレクションとして生産数は有限であり 2K はこれ以上の生産を行いません。
+
+### Balls of Steel パッケージの中身は何?
+
+Balls of Steel パッケージの写真を [Gearbox のサイト](http://www.gearboxity.com/content/view/606/36/)で確認できます。[YouTube に沢山の動画](http://www.youtube.com/results?search_query=Duke+Nukem+Forever+Balls+of+Steel+Edition+Unboxing&aq=f)がアップロードされていますので、購入者の開封の様子が見たければそちらで確認できます。
+
+### Bust や Art ブックのサイズは?
+
+> The Bust is 5 inches in height. The art/history book is 100 pages in length and covers tons of concept art throughout the history of Duke Nukem Forever's development. It also has a bunch of quotes with multiple pieces of art from George, Scott, Triptych, Brian Cozzens, etc.
+
+Addons / DLC
+------------
+
+### Duke Nukem Forever 用 DLC はある?
+
+あります。DLC の個数、リリース日、配布方法はまだアナウンスされていません。
+
+### DLC パックはいくら?
+
+最初の DLC は 9.99 USD での販売になる見込みです。更なる情報は[こちら](http://www.gearboxity.com/content/view/650/36/)になります。
+
+### 最初の DLC が一部の人たちには無料配布っていう話は何?
+
+Duke Nukem Forever First Access Club にゲームリリース前の (貴方の国での) 登録をされたユーザーは、最初の DLC パックが無料になります。
+
+### FAC コード入力後に、間違ったプラットフォーム向けのデモキーを割り振られた。正しいプラットフォームで無料 DLC がほしいけど、大丈夫?
+
+DLC が入手可能になる前に、再度プラットフォーム選択の機会があります。
+
+General Questions
+-----------------
+
+### Duke Nukem Forever の ESRB によるレーティングは?
+
+> The game has been rated M (Mature) by the ESRB (Entertainment Software Ratings Board). The PEGI (Pan-European Game Information) group has rated the game 18. For any other ratings, please check your local ratings system.
+
+レーティングは M となっています。国内版のレーティングは CERO が審査予定ですので、販売が予定されている Xbox 360 と PlayStation 3 の内容はこの結果が反映される事になるでしょう。
+
+### Borderlands GOTY 版から自分のコードを入力したけど、登録されない。何で?
+
+この問題の詳細に関して投稿があります。[こちら](http://gbxforums.gearboxsoftware.com/showpost.php?p=2116809&postcount=861)をご覧ください。
+
+### Duke Nukem Forever のエンジンは?
+
+Duke Nukem Forever は Duke Nukem の名に相応しいエンジンの元に開発されています。一般的なレンダリングやアニメーションのシステムは独自仕様です。我々のデベロッパは、エンジンのプロモーションではなく、最高のゲームを作る事に注力しています。
+
+追記: 起動時のロゴから Unreal Engine が使われている事が見て取れます。またメモリハックをして有効化したコンソールから Unreal Engine の各種コマンドが実行可能です。
+
+### Gearbox が Duke Nukem Forever をリリースするなら、 Triptych や Piranha という会社は何を扱うの?
+
+Triptych は Duke Nukem Forver に携わった元 3D Realms スタッフらです。Triptych は現在 Gearbox 内におり、我々の開発に直接関係しています。Piranha は Gearbox のパートナーで Xbox360 と PlayStation 3 の互換性及びマルチプレイ作成を手伝っています。
+
+### ゲームのプレイ時間はどれくらいに?
+
+Randy Pitchford が最近のインタビューでシングルプレイヤーキャンペーンで Modern Warfare 2 の規模の 3 倍になるだろうと言っています。非常に長いシングルプレイに加えてマルチプレイもあります。
+
+### エディタやマッピングツールはゲームと共にリリースされますか。
+
+Mod ツールは現在ゲームに含まれていません。
+
+### Steam で配信されますか。
+
+はい、[こちら](http://gbxforums.gearboxsoftware.com/showthread.php?t=117553)で確認できます。購入は[こちら](http://store.steampowered.com/app/57900/?snr=1_4_4__104)からできます。
+
+### Mac か Linux でリリースされますか。
+
+Mac 及び Linux のリリースに関しては何の発表もありません。
+
+### Duke Nukem Forever に必要な動作環境は?
+
+PlayStation 3 や Xbox360 は特にありません。 PC 版については[こちらのスレッド](http://gbxforums.gearboxsoftware.com/showthread.php?t=120746)をお読み下さい。
+
+追記: [概要ページ](http://duke2ch.github.com/dnf-outline.html)にも記載してあります。
+
+### 何の DRM を PC 版では使いますか。
+
+Steamworks を使います。 Steamworks と DNF の詳細は[このスレッド](http://gbxforums.gearboxsoftware.com/showthread.php?t=117553)をご覧ください。
+
+### ドイツ在住です。多くの他のゲーム同様、このゲームも規制されますか。
+
+3 月 2 日にドイツのレーティング当局は 18 rating とする発表がありました。つまり一切の編集やカットの類がないという事です! 詳しくは[こちら](http://gbxforums.gearboxsoftware.com/showthread.php?t=118165)。
+
+### オーストラリア在住です。同様に規制はありますか。
+
+オーストラリアのレーティング当局は MA 15+ のレーティングで編集及びカットはありません。詳しくは[こちら](http://gbxforums.gearboxsoftware.com/showthread.php?t=117556)。
+
+### 北米とイギリスはどうでしょう。規制はありますか。
+
+心配ありません! カット無しの無修正になるでしょう。
+
+### マルチプレイヤーの Dedicated サーバーには何かアップデートはある?
+
+フォーラムに活発なスレッドがあり、開発チームは dedicated サーバーが機能するよう改善するため何ができるか見ています。当初の告知通り非サポートの機能ですが、チームは機能改善やツール追加を希望する声を受けて、何ができるか考えています。可能であれば最終的な答えが分かり次第お伝えします。
