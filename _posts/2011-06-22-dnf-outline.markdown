@@ -71,7 +71,9 @@ PC 版は Steamworks を採用しており、[Steam の商品ページ](http://s
 
 ### デモ版
 
-First Access Club メンバー向けに、発売前のデモ版配布が行われました。しかし日本国内のメンバーにはデモコードの代わりに [&ldquo;Japanese demo codes will arrive at a later time.&rdquo; が表示されている現状](http://imgur.com/a/RcvoC)です。
+デモが一般公開となりました。[Steam の商品ページ](http://store.steampowered.com/app/57900/)よりダウンロードしてプレイ可能です。
+
+First Access Club メンバーには、発売前の先行デモ版配布が行われました。しかし日本国内のメンバーには、依然デモコードの代わりに &ldquo;Japanese demo codes will arrive at a later time.&rdquo; のメッセージのみが表示されている現状です。
 
 * [Gearbox Forum での問い合わせの結果](http://gbxforums.gearboxsoftware.com/showthread.php?t=122408)、日本国内での販売は &ldquo;after June&rdquo; を予定しており、規制は 2K Games の意向である事が伺える。
 * [2K Games への問い合わせ結果](http://support.2k.com/tickets/15563)、日本国内 FAC メンバーへのデモ配布が行われるのは依然不透明。
@@ -143,6 +145,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 6 月 3 日、日本国内以外の First Access Club メンバー向けにデモ版がリリースされる。
 * 2011 年 6 月 10 日、インターナショナル版リリース。
 * 2011 年 6 月 14 日、北米版リリース。
+* 2011 年 6 月 22 日、デモが一般公開。
 
 裏側
 ----
