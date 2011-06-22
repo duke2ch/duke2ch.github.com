@@ -10,7 +10,7 @@ categories:
 Duke Nukem とは...
 ==================
 
-![Duke Nukem](./images/dukenukem.png)
+![Duke Nukem](./images/portrait-of-duke-01.jpg)
 1991 年に発売された 2D 横スクロールのシューティングゲームが元祖。その後続編が 1993 年に発売された。そして 1996 年のシリーズ 3 作目として登場した Duke Nukem 3D (以降 Duke3D) は、FPS ゲームの歴史に名を残す名作となった。
 
 開発元は 3D Realms という古参デベロッパの 1 つ。Duke Nukem シリーズで大いに名を馳せた。Duke Nukem を題材としたコンシューマゲームも多数リリースしている。PC 向けにも Manhattan Project という初代 2 作品を彷彿させる横スクロールシューティングゲームを 2002 年にリリースしている。
@@ -21,4 +21,8 @@ Duke Nukem のキャラクター像は、Arnold Schwarzenegger を彷彿させ�
 
 その後、順調に開発が続いていると思いきや、突如、3D エンジンをより新しいものにしてフルスクラッチを発表するなど、3D Realms の匠のこだわりを感じさせるプロモーションが続いた。これと同時に 当時公開されたトレーラーのフレーズ &ldquo;When it's done.&rdquo; は Duke Nukem の代名詞となる。しかし、そんな理想の追及者に資金を提供し続ける販売元もなく、次第に 3D Realms は資金難になる。そして、恐れていた事態、倒産。PC ゲーム業界の冷え込みと共に、古き良き時代の FPS は姿を消していた。そんな中で、Duke Nukem Forever は最後の希望となりつつあった中での倒産であった。Forever is over であった。
 
-しかし、再び希望の光がさす。Half-Life の拡張パック等を手がけた Gearbox Software が Duke Nukem Forever のリソースを引き継ぎ、開発を表明したのだ。2010 年 9 月、紆余曲折の末、ついにファンが待ち焦がれていた続編 Duke Nukem Forever の発売が決定した。 リリース予定は 2011 年 6 月となっている。さぁ今こそ Let's Rock!
+しかし、再び希望の光がさす。Half-Life の拡張パック等を手がけた Gearbox Software が Duke Nukem Forever のリソースを引き継ぎ、開発を表明したのだ。2010 年 9 月、紆余曲折の末、ついにファンが待ち焦がれていた続編 Duke Nukem Forever の発売が決定した。
+
+2011年 6 月、Duke Nukem Forever が日の目を見た。日の目を見たがその姿に多くが失望の声を発し、そのブランドは地に堕ちた...
+
+ん、果たしてそうだろうか。Duke Nukem らしさは最新作でも健在だ。Duke Nukem Forever に求めたものはファンそれぞれで違うだろう。しかし Duke Nukem のブランドは今なお健在だと感じたファンもいるはずだ。ここはそんな少数派の集う場所... Rest in pieces.
