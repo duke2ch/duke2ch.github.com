@@ -3,7 +3,7 @@ layout: default
 title: Duke Nukem 語録
 description: Duke Nukem の発してきた名言の数々の記録です。
 categories:
-- 'Duke Nukem Forever'
+- '総合'
 ---
 
 Duke Nukem Forever
@@ -67,9 +67,9 @@ Duke Nukem Forever Reveal Trailer
 >
 > Duke: Yeah, but after 12 fucking years it should be!
 
-オーサム姉妹: ゲームどう、デューク? 面白い?
+オーサム姉妹: ゲームどう? 私たちより良かったの..?
 
-デューク: ああ、だが 12 歳になったらな、間違いないぜ。
+デューク: ああ、あれから 12 年だ。思い返せばってやつか。
 
 語録の一覧
 ==========

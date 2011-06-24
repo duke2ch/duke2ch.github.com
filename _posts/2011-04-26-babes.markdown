@@ -3,7 +3,7 @@ layout: default
 title: 娘たち
 description: Duke Nukem 3D 時代に花を添えた娘たち。
 categories:
-- 'Duke Nukem 3D'
+- '総合'
 ---
 
 1996 年当時の娘たち
