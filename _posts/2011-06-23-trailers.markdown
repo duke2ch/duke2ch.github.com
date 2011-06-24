@@ -9,6 +9,10 @@ categories:
 Duke Nukem Forever トレーラー
 =============================
 
+## Duke Nukem Forever Multiplayer Trailer
+
+<iframe width="640" height="390" src="http://www.youtube.com/embed/ok2YjTao9Hk" frameborder="0" allowfullscreen></iframe>
+
 ## History of a Legend - Chapter 3
 
 <iframe width="640" height="390" src="http://www.youtube.com/embed/Aynlu6rKntc" frameborder="0" allowfullscreen></iframe>
