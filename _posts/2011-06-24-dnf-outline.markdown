@@ -11,49 +11,6 @@ Duke Nukem Forever とは...
 
 Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズで、約 15 年の開発のすえ発売された待望の最新作です。
 
-メモ
-----
-
-### コンソールの使用
-
-1. [Flawless Widescreen](http://www.flawlesswidescreen.org/) をダウンロードする。
-2. ダウンロードしたファイルを適当な場所 (展開場所によっては起動時エラーが出て使用不能になるバグがある) に展開し、Flawless Widescreen を起動する。
-3. Duke Nukem Forever を起動する。
-4. Alt + Tab 等で Flawless Widescreen に切り替える。
-5. Flawless Widescreen の Show Log Window 項目の Do It ボタンをクリックする。
-6. コンソールウィンドウが表示される。
-7. コンソールウィンドウに `set input Tilde ShowControls | Type` と入力し確定する。
-8. 以降、ゲーム内で `~` キーを押下すれば in-game の SOS コンソールが表示される。
-
-コンソールで変更したオプションは保存されるので、一度実行すれば再度変更するまで有効です。尚 SOS コンソールでチートを使用した場合、実績が解除されないようですので、実績を気にする場合は注意が必要です。
-
-### マウス感度の調整
-
-1. コンソールを呼び出す。
-2. コンソールに `set Engine.PlayerPawn MouseAccelDampening 0.0001` と入力し確定する。
-3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と入力し確定する。
-
-### DOF の無効化
-
-1. コンソールを呼び出す。
-2. コンソールに `r_dofpow 0` と入力し確定する。
-
-### Bumpmap の改善
-
-1. コンソールを呼び出す。
-2. コンソールに `r_bumpmipbias -1` と入力し確定する。
-
-### FOV の変更
-
-1. コンソールを呼び出す。
-2. コンソールに `FOV 85` と入力し確定する。
-
-ただし Duke が死ぬと初期値にリセットされてしまうようです。 Flawless Widescreen で対応した方が良いかもしれません。
-
-### 設定ファイルの保存場所
-
-Steam Cloud 上にのみセーブデータや設定ファイル (user.ini 等) を保存する為、ローカルでの閲覧・編集が不可能?
-
 発売後の近況
 ------------
 
