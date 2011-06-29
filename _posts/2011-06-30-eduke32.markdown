@@ -9,7 +9,27 @@ categories:
 EDuke32 とは...
 ===============
 
-現在、デファクトスタンダードとなっている Duke Nukem 3D 用ポートエンジンです。今 Duke Nukem 3D を遊ぶのなら、迷わずこのエンジンを使って遊ぶのがお勧めです。
+![美しく蘇った Hollywood Holocaust 映画館](./images/eduke32.jpg)
+EDuke32 は Duke Nukem 3D のポートエンジンの中で事実上の標準となっているエンジンです。かつてのコミュニティパッチ EDuke や ポートエンジンの先駆者 JFDuke3D からの機能を取り込み、Polymer レンダラといったより美しい OpenGL レンダリングモードを搭載するなど、非常に優れたエンジンとなっています。
+
+特徴として;
+
+* オリジナル版からの大量のバグ修正
+* 現代的でカスタマイズ可能な HUD の搭載
+* クロスプラットフォームへの対応
+* ソフトウェア及び 2 種類の OpenGL レンダリングモードの搭載
+* Quake スタイルのキーバインディングやコンソールの搭載
+* マルチプレイモードの搭載
+
+現在唯一、開発が続けられているエンジンであり、[HRP](./hrp.html) を利用するためにもこのエンジンが必要なので、今から Duke Nukem 3D を遊ぶならこのエンジンが一番です。
+
+導入
+====
+
+ダウンロード
+------------
+
+* [EDuke32 • Duke3D for Windows, Linux and OS X](http://eduke32.com/)
 
 設定
 ====
@@ -55,3 +75,17 @@ ATI 製グラフィックカードの場合、nVIDIA 製カードより、総じ
     ScreenWidth = 1280
 
 アスペクト比そのものは、ワイドスクリーン解像度に変更すると自動で調整されるようです。
+
+マルチプレイ
+------------
+
+* [Multiplayer - EDukeWiki](http://wiki.eduke32.com/wiki/Multiplayer)
+
+EDuke32 のマルチプレイは長らく限定的なサポートに留まっている。マッチング機能がないので、不特定プレイヤーとマルチプレイをするには Build エンジンゲーム専用のマッチングソフトウェア [YANG](http://yang-online.com/) を使う必要がある。
+
+コミュニティプロジェクト
+========================
+
+* [**BloodTC**](http://m210.ucoz.ru/): 3D Realms と Monolith Productions によって開発された Duke Nukem 3D を同じ Build エンジンのゲーム Blood を EDuke32 上で再現するプロジェクト。オリジナルのリソースとで拡張された要素を EDuke32 のスクリプト機能で再実装し、EDuke32 で動くようにしている。
+* [**BloodTC HRP**](http://sourceforge.net/projects/bloodhrp/): 上記 BloodTC 向けの HRP プロジェクト。
+* [EDuke32 Modifications - EDukeWiki](http://wiki.eduke32.com/wiki/EDuke32_Modifications)
