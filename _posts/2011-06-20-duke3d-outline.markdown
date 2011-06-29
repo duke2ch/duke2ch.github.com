@@ -9,6 +9,7 @@ categories:
 Duke Nukem 3D とは...
 =====================
 
+![名所 Hollywood Holocaust 映画館](./images/duke3d.jpg)
 Duke Nukem 3D とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され GT Interactive Software という現在の [Atari, Inc.](http://www.atari.com/store) という会社より販売されました。1996 年 1 月 29 日 PC 向けに発売されました。このゲームは 3D Realms の前身 Apogee Software が開発・販売した Duke Nukem 及び Duke Nukem II の続編に当たります。
 
 Duke Nukem 3D はマッチョな Duke Nukem (声優は Jon St. John という米国の声優兼歌手) というキャラクタが地球のエイリアン侵略を食い止めるという内容のゲームです。
