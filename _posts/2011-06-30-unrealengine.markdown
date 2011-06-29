@@ -9,7 +9,10 @@ categories:
 Unreal Engine とは....
 ======================
 
-(後で書く)
+![Unreal Engine ロゴ](./images/unrealengine.jpg)
+[Epic Games](http://www.epicgames.com/) 開発によるゲームエンジン。id Software の id Tech エンジンに並ぶ可搬性の高い優れたエンジン。古くは Unreal Tournament から大ヒットシリーズ Gears of War や Bulletstorm 等、このエンジンを採用するゲームは多数あります。
+
+Duke Nukem Forever もこのエンジンを元に開発されており、メモリハックによって Unreal Engine 由来の機能にアクセス出来ます。正確なエンジンの世代は公式な発表がありませんので不明です。ただ開発時期から Unreal Engine 3 の前世代である事が推察され、Unreal Engine 2.5 というのが一般的な解釈です。
 
 設定
 ====
