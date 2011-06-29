@@ -67,7 +67,8 @@ $(function() {
         }
     );
 
-    $('header').attr('id', 'babe-' + Math.floor(Math.random() * 2));
+    var mx = 3, mn = 1;
+    $('header').attr('id', 'babe-' + Math.round(Math.random() * 3));
     $("article").prepend('<section id="toc"><p>▽ 目次</p></section>');
     $("#toc").bind("click", function () {
         /**

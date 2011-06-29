@@ -456,14 +456,24 @@ header {
     box-shadow: 0 0 5px rgb(0,0,0);
 }
 header#babe-0 {
-    background-image: url("../images/bg_babe.png");
+    background-image: url("../images/bg_header.png");
     background-repeat: no-repeat;
-    background-position: 100% 100%;
+    background-position: 95% 0px;
 }
 header#babe-1 {
-    background-image: url("../images/bg_holsumtwin.png");
+    background-image: url("../images/bg_header.png");
     background-repeat: no-repeat;
-    background-position: 90% 60%;
+    background-position: 95% -150px;
+}
+header#babe-2 {
+    background-image: url("../images/bg_header.png");
+    background-repeat: no-repeat;
+    background-position: 95% -300px;
+}
+header#babe-3 {
+    background-image: url("../images/bg_header.png");
+    background-repeat: no-repeat;
+    background-position: 95% -450px;
 }
 header * {
     color: rgb(255,255,255);
