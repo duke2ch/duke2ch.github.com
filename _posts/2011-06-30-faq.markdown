@@ -131,7 +131,11 @@ Mod ツールは現在ゲームに含まれていません。
 
 はい、[こちら](http://gbxforums.gearboxsoftware.com/showthread.php?t=117553)で確認できます。購入は[こちら](http://store.steampowered.com/app/57900/?snr=1_4_4__104)からできます。
 
-### Mac か Linux でリリースされますか。
+### Mac でリリースされますか。
+
+6 月 27 日、Duke Nukem Forever が Mac OS に来ること、リリースは 8 月と発表がありました。発表内容を[こちら](http://www.gearboxity.com/content/view/678/36/)で確認できます。
+
+### Linux でリリースされますか。
 
 Mac 及び Linux のリリースに関しては何の発表もありません。
 
