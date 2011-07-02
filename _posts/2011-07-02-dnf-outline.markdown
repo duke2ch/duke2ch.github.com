@@ -12,6 +12,10 @@ Duke Nukem Forever とは...
 ![Duke Nukem Forever の体を成す一枚(嘘)](./images/dnf.jpg)
 Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズで、約 15 年の開発のすえ発売された待望の最新作です。
 
+発売後の評価は、長年の期待を裏切る凡作であったため、当初は非常に低い評価が続きました。しかし、実際には酷評されるほどの酷い品質ではありません。2011 年に発売されたゲームとしては古さは拭えませんが、Duke Nukem らしいジョークは健在です (若干子供っぽい風刺が増えましたが)。
+
+シングルプレイはコンソール仕様の若干古臭いゲームですので、Duke Nukem 流のジョークを期待する人以外にはあまりお勧めできないかもしれません。マルチプレイは DM や CTB (CTF 派生モード) 等のクラシックなゲームモードのみです。クラシックなマルチプレイが好みの人にはお勧めです。
+
 発売後の近況
 ------------
 
@@ -148,6 +152,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 6 月 14 日、北米版リリース。
 * 2011 年 6 月 22 日、デモが一般公開。
 * 2011 年 6 月 27 日、Aspyr Media より Mac OS X 移植版の 8 月リリースの[アナウンス](http://blog.gameagent.com/2011/06/27/duke-nukem-forever-coming-to-the-mac/)。
+* 2011 年 7 月 1 日、Duke Nukem シリーズ [祝 20 周年](http://forums.gearboxsoftware.com/showthread.php?t=126787)。
 
 裏側
 ----
