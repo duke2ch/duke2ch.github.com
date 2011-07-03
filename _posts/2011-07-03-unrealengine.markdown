@@ -12,12 +12,21 @@ Unreal Engine とは....
 ![Unreal Engine ロゴ](./images/unrealengine.jpg)
 [Epic Games](http://www.epicgames.com/) 開発によるゲームエンジン。id Software の id Tech エンジンに並ぶ可搬性の高い優れたエンジン。古くは Unreal Tournament から大ヒットシリーズ Gears of War や Bulletstorm 等、このエンジンを採用するゲームは多数あります。
 
-Duke Nukem Forever もこのエンジンを元に開発されており、メモリハックによって Unreal Engine 由来の機能にアクセス出来ます。正確なエンジンの世代は公式な発表がありませんので不明です。ただ開発時期から Unreal Engine 3 の前世代である事が推察され、Unreal Engine 2.5 というのが一般的な解釈です。
+Duke Nukem Forever もこのエンジンを元に開発されており、メモリハックによって Unreal Engine 由来の機能にアクセス出来ます。正確なエンジンの世代は公式発表がありませんので不明です。ただ開発時期から Unreal Engine 3 の前世代である事が推察され、Unreal Engine 2.5 というのが一般的な解釈です。
 
 設定
 ====
 
-設定ファイルの保存先は Steam Cloud 上になっているため、基本的にはローカルでのバックアップや変更等を出来ません。
+設定ファイルやセーブデータの保存先は Steam Cloud 上になっているため、基本的にはローカルでの変更は出来ません。
+
+バックアップ
+------------
+
+1. Steam Cloud を無効化する。
+2. Steam ディレクトリ `\Steam\userdata\<random number>\57900\remote` に移動する。
+3. `last.sav`, `last.dcp`, `progress.ini` の 3 つのファイルを他所へコピーする。
+
+設定やセーブデータが不意にリセットされた場合は、手順 3 のファイルを 手順 2 へコピーする事で復元出来ます。尚、これらファイルは暗号化されているので、直接編集は出来ません。
 
 カスタマイズ
 ============
@@ -74,7 +83,9 @@ SOS コンソールか Flawless Widescreen のコンソールより、Unreal Eng
 1. コンソールを呼び出す。
 3. コンソールに `set Engine.PlayerPawn MouseSensitivity 10.65` と入力し確定する。
 
-ハックツール
-------------
+テクスチャエディタ
+------------------
 
-* [Texmod Launcher Tool](http://forums.gearboxsoftware.com/showthread.php?t=126781) がコミュニティよりリリースされました。テクスチャの差し替えが可能なようです。
+* [Duke Nukem Forever Texmod Launcher Tool](http://www.skacik.home.pl/skacik/dnftlt/tut/tut.html)
+
+フォーラムにて非公式なテクスチャエディタが[公開](http://forums.gearboxsoftware.com/showthread.php?t=126781)されました。 Texmod と組み合わせてゲーム内の任意のテクスチャの差し替えが可能で、一部 Bumpmap の改善も可能なようです。
