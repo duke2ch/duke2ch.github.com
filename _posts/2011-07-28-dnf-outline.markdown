@@ -153,6 +153,10 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 6 月 22 日、デモが一般公開。
 * 2011 年 6 月 27 日、Aspyr Media より Mac OS X 移植版の 8 月リリースの[アナウンス](http://blog.gameagent.com/2011/06/27/duke-nukem-forever-coming-to-the-mac/)。
 * 2011 年 7 月 1 日、Duke Nukem シリーズ [祝 20 周年](http://forums.gearboxsoftware.com/showthread.php?t=126787)。
+* 2011 年 7 月 18 日、[有志による日本語化 MOD](http://www.geocities.jp/bcc2528/mod/DNF.html) がリリース。
+* 2011 年 7 月 21 日、Take-Two Interactive Japan がコンソール向け日本語版の[発売日を今夏発売から未定に変更](http://www.2kgames.jp/dnf/releases/dnfreleasedetails.pdf)。
+* 2011 年 7 月 27 日、DLC 第 1 弾 Hail to the Icons Parody Pack を今秋リリースの[アナウンス](http://forums.gearboxsoftware.com/showthread.php?t=127803)。
+* 2011 年 7 月 28 日、次期アップデートで (1) シングルプレイ武器所持制限が 4 個までに緩和 (2) VAC 対応 (3) ボイスチャットの push-to-talk 対応 (4) FOV 調整対応が[明言される](http://forums.gearboxsoftware.com/showthread.php?t=127850)。
 
 裏側
 ----
