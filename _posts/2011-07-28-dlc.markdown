@@ -1,0 +1,25 @@
+---
+layout: default
+title: DLC
+description: Duke Nukem Forever の DLC 情報です。
+categories:
+- 'Duke Nukem Forever'
+---
+
+Hail to the Icons Parody Pack
+=============================
+
+![Hail to the Icons Parody Pack](./images/dlc-01.jpg)
+2011 年 7 月 27 日に Duke Nukem Forever の DLC 第 1 弾の情報が[公開されました](http://www.2kgames.com/blog/new-duke-nukem-forever-content-arriving-this-fall-come-play-at-2k-headquarters-august-4)。この DLC では、新マップ・新武器・新モードといったマルチプレイへの新要素追加が行われるようです:
+
+* Xbox 360, PlayStation 3, PC で今秋リリース予定。
+* 4 つの新しいマルチプレイマップ (各マップにつき 1 つの新武器)。
+* 3 つの新しいマルチプレイモード。
+* FAC メンバーに無料提供。
+
+新しい 4 つのマップは:
+
+* **Call of Duke**: Call of Duty 風マップ。新武器 N00b T00b とは一体!?
+* **Sandpit** 小人 Duke となって巨大な砂場でお遊戯タイム。子供おもちゃとは一体!?
+* **Inferno** Doom を彷彿させるマップ。DFG とは一体!!
+* **2Forts1Bridge** Team Fortress 2 風マップ。新武器ミニガンに期待せよ!
