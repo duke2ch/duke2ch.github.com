@@ -12,17 +12,9 @@ Duke Nukem Forever とは...
 ![Duke Nukem Forever の体を成す一枚(嘘)](./images/dnf.jpg)
 Duke Nukem Forever とは [FPS](http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0) というジャンルのゲームで [3D Realms](http://www.3drealms.com/) という会社で開発され、その後 [Gearbox Software](http://www.gearboxsoftware.com/) に開発が引き継がれました。1991 年に登場した初代 Duke Nukem からの非常に長いロングランシリーズで、約 15 年の開発のすえ発売された待望の最新作です。
 
-発売後の評価は、長年の期待を裏切る凡作であったため、当初は非常に低い評価が続きました。しかし、実際には酷評されるほどの酷い品質ではありません。2011 年に発売されたゲームとしては古さは拭えませんが、Duke Nukem らしいジョークは健在です (若干子供っぽい風刺が増えましたが)。
+発売後の評価は、当初は非常に低い評価が続きました。現在の Metascore は [55 点](http://www.metacritic.com/game/pc/duke-nukem-forever) と高い評価ではありません。ゲームとしては長年の期待を裏切る凡作であった感は否めません。しかし、実際には酷評されるほどの酷い品質ではありません。2011 年に発売されたゲームとして古さは拭えませんが、Duke Nukem らしいジョークは勢いを増して健在です。
 
 シングルプレイはコンソール仕様の若干古臭いゲームですので、Duke Nukem 流のジョークを期待する人以外にはあまりお勧めできないかもしれません。マルチプレイは DM や CTB (CTF 派生モード) 等のクラシックなゲームモードのみです。クラシックなマルチプレイが好みの人にはお勧めです。
-
-発売後の近況
-------------
-
-* Metascore は [57 点](http://www.metacritic.com/game/pc/duke-nukem-forever) (Duke Nukem 3D は [89 点](http://www.metacritic.com/game/pc/duke-nukem-3d))。
-* プレイ時間は [8-10 時間と 12-16 時間](http://forums.gearboxsoftware.com/showthread.php?t=124428)というフィードバックが多い。
-* Dedicated サーバーが、[非サポートながら実装](http://forums.gearboxsoftware.com/showthread.php?t=123671)されている。
-* コンソール利用や FOV 変更が無効化されているが、[Flawless Widescreen](http://www.flawlesswidescreen.org/) で対応可能。
 
 ゲームの入手
 ------------
@@ -76,6 +68,31 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * ビデオメモリ: **512** MB
 * ビデオカード: nVIDIA GeForce **8800 GTS** / ATI Radeon HD **3850**
 * サウンドカード: DirectX 互換のもの
+
+パッチ
+------
+
+### パッチ #1
+
+2011 年 8 月 3 日リリースのパッチ詳細:
+
+* シングルプレイヤー用 4 武器所持のインベントリ・オプションを追加
+* マルチプレイヤーサーバーにお気に入りを追加
+* Dedicated サーバーのオーバーホール
+* FOV 調整に対応
+* VOIP を push-to-talk に変更 (帯域の修正)
+* VAC アンチ・チートシステムを搭載
+* 日本での PC 版リリース用に日本語 Steam ID へ対応
+* Auto-aim の修正
+* 発砲時の敵の流血エフェクトを追加
+* Steam.exe の異常な CPU 使用率の修正
+* テクスチャの質の向上
+* シングル・マルチプレイのセーブデータ破損の修正
+* リーダーボード・チートの修正
+* AMD Dual-Core Optimizer が不要の場合でもインストールされる問題の修正
+* クラッシュ・互換性に関する修正とその他マイナーバグの修正
+
+[DNF PC Patch Released! - Gearbox Software Forums](http://forums.gearboxsoftware.com/showthread.php?t=128056)
 
 開発の歴史
 ==========
@@ -156,7 +173,7 @@ DLC やアンロック要素、オンラインコンテンツ等のフィーチ�
 * 2011 年 7 月 18 日、[有志による日本語化 MOD](http://www.geocities.jp/bcc2528/mod/DNF.html) がリリース。
 * 2011 年 7 月 21 日、Take-Two Interactive Japan がコンソール向け日本語版の[発売日を今夏発売から未定に変更](http://www.2kgames.jp/dnf/releases/dnfreleasedetails.pdf)。
 * 2011 年 7 月 27 日、DLC 第 1 弾 Hail to the Icons Parody Pack を今秋リリースの[アナウンス](http://forums.gearboxsoftware.com/showthread.php?t=127803)。
-* 2011 年 7 月 28 日、次期アップデートで (1) シングルプレイ武器所持制限が 4 個までに緩和 (2) VAC 対応 (3) ボイスチャットの push-to-talk 対応 (4) FOV 調整対応が[明言される](http://forums.gearboxsoftware.com/showthread.php?t=127850)。
+* 2011 年 8 月 3 日、[PC 版パッチのリリース](http://forums.gearboxsoftware.com/showthread.php?t=128056)。
 
 裏側
 ----
