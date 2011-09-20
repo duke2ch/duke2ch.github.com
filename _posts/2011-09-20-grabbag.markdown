@@ -54,12 +54,13 @@ Grabbag (Duke Nukem Theme) は言わずも知れた Duke Nukem メインテー�
 * アーティスト: **fotakatos**
 * ダウンロード: http://tiny.cc/hcxl0
 
-### Duke Nukem Jam
+### Duke Nukem Jam HD
 
-<iframe width="480" height="390" src="http://www.youtube.com/embed/g-y0MdPXslo" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/o1SyS7YYzVg" frameborder="0" allowfullscreen></iframe>
 
 * アーティスト: **Chris Kline (aka VERTEXGUY)**
-* Web サイト: [V E R T E X G U Y - The Online Portfolio of Chris Kline](http://www.vertexguy.com./)
+* Web サイト: [VERTEXGUY - The Online Portfolio of Chris Kline](http://www.vertexguy.com/)
+* ダウンロード: [vertexguy.com](http://www.vertexguy.com/Audio/Tributes/Music/Duke_Nukem_3D/Duke_Nukem_Jam_HD.mp3)
 
 ### Duke Nukem Grabbag metal cover
 
