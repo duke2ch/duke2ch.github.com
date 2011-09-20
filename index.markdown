@@ -7,6 +7,11 @@ categories:
 - 'Duke Nukem Forever'
 ---
 
+最新情報
+========
+
+[只今 Gearbox Software では Duke Nukem Forever のアンケートを実施中。](http://survey.gearboxsoftware.com/index.php?sid=56594)
+
 Duke Nukem とは...
 ==================
 
